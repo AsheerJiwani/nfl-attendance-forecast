@@ -28,12 +28,16 @@ h1, .title { color: #FFD700 !important; font-family: 'Roboto', sans-serif; displ
 """
 st.markdown(custom_css, unsafe_allow_html=True)
 
-# Inline title and cerebros using columns
-col1, col2 = st.columns([0.75, 0.25])
+# Inline title, cerebros, and logo using columns
+col1, col2, col3 = st.columns([0.68, 0.17, 0.15])
+
 with col1:
     st.markdown("<h1 class='title'>NFL Team Attendance: 2006–2029</h1>", unsafe_allow_html=True)
 with col2:
     st.markdown("<span class='cerebros'>CEREBROS</span>", unsafe_allow_html=True)
+with col3:
+    st.image("cerebros_logo.png", width=70)  # Change path/width as you need
+
 
 st.markdown(
     """
