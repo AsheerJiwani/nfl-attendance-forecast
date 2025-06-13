@@ -1,6 +1,6 @@
 # NFL Attendance Forecasting with Exponential Smoothing
 
-A data science project for scraping, cleaning, forecasting, and visualizing 20 years of NFL team attendance, with an interactive gold-and-black Streamlit dashboard.
+A data science project for scraping, cleaning, forecasting, and visualizing 19 years of NFL team attendance, with an interactive gold-and-black Streamlit dashboard.
 
 ---
 
