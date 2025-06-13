@@ -3,7 +3,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import time
 
-# Team code to canonical name mapping (expand as needed)
+# Team code to name mapping
 TEAM_CODE_MAP = {
     "lar": "Los Angeles Rams",
     "lac": "Los Angeles Chargers",
@@ -11,14 +11,12 @@ TEAM_CODE_MAP = {
     "oak": "Oakland Raiders",
     "sd": "San Diego Chargers",
     "stl": "St. Louis Rams",
-    # Add others as needed
 }
 
 def get_team_code(td):
     """Extract team code from the ESPN href or fallback to text."""
     a = td.find('a')
     if a and 'href' in a.attrs:
-        # Example: .../name/lar/los-angeles-rams
         parts = a['href'].split('/')
         try:
             idx = parts.index('name')
@@ -88,13 +86,13 @@ for year in range(2006, 2025):
 
 attendance_df = pd.concat(all_years, ignore_index=True)
 
-# Final deduplication (shouldn't be needed but is safe)
+# Final deduplication
 attendance_df = attendance_df.drop_duplicates(subset=['team', 'season'])
 
 # Save cleaned data
 attendance_df.to_csv("data/nfl_attendance_2006_2024_final.csv", index=False)
 
-# Show summary for sanity check
+# Show summary
 print(attendance_df['team'].value_counts())
 print(attendance_df.head(10))
 

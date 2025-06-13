@@ -63,6 +63,54 @@ A data science project for scraping, cleaning, forecasting, and visualizing 20 y
 
 ---
 
+## Additional Variables for Enhanced Forecasting
+
+If future versions of this project aimed to further improve NFL attendance forecasting, the following variables could be integrated into the modeling pipeline:
+
+- **Team Performance**  
+  Win-loss record, playoff runs, and overall franchise momentum have strong impacts on fan interest.
+
+- **Star Player Presence**  
+  Attendance often spikes for games featuring star players (home or away), or for major player debuts/returns.
+
+- **Game Schedule Features**
+  - **Day of the Week:** Sunday, Monday Night Football (MNF), Thursday Night Football (TNF), Saturday games, etc.
+  - **Time of Day:** Afternoon vs. evening kickoffs.
+  - **Holiday Games:** Thanksgiving, Christmas, New Year’s.
+
+- **Opponent Quality**
+  - **Rivalry Games:** Division rivals and historic matchups typically draw higher attendance.
+  - **Visiting Team Draw:** Teams with national/international fanbases (e.g., Cowboys, Packers) boost attendance on the road.
+
+- **Weather**
+  - Outdoor stadiums may see attendance dips during poor weather forecasts (rain, snow, cold).
+
+- **Promotions & Giveaways**
+  - Special events, fan appreciation days, or giveaways can increase single-game attendance.
+
+- **Stadium Factors**
+  - **Stadium Capacity:** Renovations or temporary seating changes.
+  - **Location/Access:** Changes in public transit, parking, or stadium moves.
+
+- **Economic Factors**
+  - Local unemployment rates, ticket prices, and city population trends.
+
+- **COVID-19 or Health Policies**
+  - Attendance restrictions, mask/vaccine mandates, etc.
+
+- **Television Broadcast Factors**
+  - Nationally televised games (MNF/SNF/TNF) may affect in-person attendance (sometimes positively, sometimes negatively).
+
+- **Local Competing Events**
+  - Major concerts, local festivals, or other sporting events scheduled at the same time.
+
+**Incorporating these features could enable more granular, game-level and team-level forecasting, making the model even more predictive and useful for NFL franchises or analysts.**
+
+- **How to Incorporate**
+  - Many of these features could be collected by scraping official NFL schedules, leveraging public APIs (such as weather or economic data), and tracking team and player performance from reputable sports databases. Feature engineering would also involve merging game-level attendance with these variables to enable fine-grained, context-aware predictions.
+  
+---
+
 ## **Gold/Black Dashboard Theme**
 
 - All charts and text use a gold (`#FFD700`), white, and black color scheme matching CEREBROS website and logo colors

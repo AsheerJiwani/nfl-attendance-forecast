@@ -24,7 +24,7 @@ for team in tqdm(df['team'].unique(), desc="Teams"):
         if valid_points < 3:
             continue
 
-        # Fit Exponential Smoothing with additive trend (trend="add")
+        # Fit Exponential Smoothing with additive trend
         model = ExponentialSmoothing(ts_train, trend="add", seasonal=None, initialization_method="estimated")
         fit = model.fit(optimized=True)
         forecast = fit.forecast(len(FORECAST_YEARS))
