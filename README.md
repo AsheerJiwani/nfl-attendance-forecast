@@ -108,13 +108,13 @@ If future versions of this project aimed to further improve NFL attendance forec
 
 - **How to Incorporate**
   - Many of these features could be collected by scraping official NFL schedules, leveraging public APIs (such as weather or economic data), and tracking team and player performance from reputable sports databases. Feature engineering would also involve merging game-level attendance with these variables to enable fine-grained, context-aware predictions.
-  
+
 ---
 
 ## **Gold/Black Dashboard Theme**
 
-- All charts and text use a gold (`#FFD700`), white, and black color scheme matching CEREBROS website and logo colors
-- The "CEREBROS" brand is displayed in the top right.
+- All charts and text use a gold (`#FFD700`), white, and black color scheme matching CEREBRO website and logo colors
+- The "CEREBRO" brand is displayed in the top right.
 
 ---
 
