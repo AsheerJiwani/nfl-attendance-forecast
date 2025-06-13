@@ -6,12 +6,12 @@ A data science project for scraping, cleaning, forecasting, and visualizing 20 y
 
 ## **Project Structure**
 
-/nfl_Attendance_Scraper.py # Script to scrape and clean ESPN attendance data
-/5year_Attendance_Model.py # Script to train models and generate forecasts
-/app.py # Streamlit dashboard
-/data/ # Contains raw and processed CSVs
-/README.md # This file
-/requirements.txt # Python dependencies
+//nfl_Attendance_Scraper.py: Script to scrape and clean ESPN attendance data
+//5year_Attendance_Model.py: Script to train models and generate forecasts
+//app.py: Streamlit dashboard
+//data/: Contains raw and processed CSVs
+//README.md: This file
+//requirements.txt: Python dependencies
 
 ---
 
