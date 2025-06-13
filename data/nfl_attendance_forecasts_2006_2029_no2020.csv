@@ -1,0 +1,2281 @@
+season,attendance,type,metric,team,lower,upper
+2006,87631.0,historical,home_avg,Washington,,
+2007,88090.0,historical,home_avg,Washington,,
+2008,88604.0,historical,home_avg,Washington,,
+2009,84794.0,historical,home_avg,Washington,,
+2010,83172.0,historical,home_avg,Washington,,
+2011,76921.0,historical,home_avg,Washington,,
+2012,79654.0,historical,home_avg,Washington,,
+2013,77220.0,historical,home_avg,Washington,,
+2014,77964.0,historical,home_avg,Washington,,
+2015,76209.0,historical,home_avg,Washington,,
+2016,78304.0,historical,home_avg,Washington,,
+2017,75175.0,historical,home_avg,Washington,,
+2018,61028.0,historical,home_avg,Washington,,
+2019,65488.0,historical,home_avg,Washington,,
+2020,1500.0,historical,home_avg,Washington,,
+2021,52751.0,historical,home_avg,Washington,,
+2022,58106.0,historical,home_avg,Washington,,
+2023,63950.0,historical,home_avg,Washington,,
+2024,63428.0,historical,home_avg,Washington,,
+2025,57114.92576516062,forecast,home_avg,Washington,47859.04762905976,66370.80390126148
+2026,55339.249674277584,forecast,home_avg,Washington,42249.46128253115,68429.03806602402
+2027,53563.573583394544,forecast,home_avg,Washington,37531.92238300194,69595.22478378715
+2028,51787.8974925115,forecast,home_avg,Washington,33276.14122030979,70299.6537647132
+2029,50012.22140162847,forecast,home_avg,Washington,29315.448697852906,70708.99410540404
+2006,68298.0,historical,road_avg,Washington,,
+2007,70158.0,historical,road_avg,Washington,,
+2008,67173.0,historical,road_avg,Washington,,
+2009,65881.0,historical,road_avg,Washington,,
+2010,66047.0,historical,road_avg,Washington,,
+2011,70199.0,historical,road_avg,Washington,,
+2012,69058.0,historical,road_avg,Washington,,
+2013,72780.0,historical,road_avg,Washington,,
+2014,69448.0,historical,road_avg,Washington,,
+2015,73301.0,historical,road_avg,Washington,,
+2016,72527.0,historical,road_avg,Washington,,
+2017,67029.0,historical,road_avg,Washington,,
+2018,69367.0,historical,road_avg,Washington,,
+2019,72195.0,historical,road_avg,Washington,,
+2020,12016.0,historical,road_avg,Washington,,
+2021,73227.0,historical,road_avg,Washington,,
+2022,70191.0,historical,road_avg,Washington,,
+2023,73793.0,historical,road_avg,Washington,,
+2024,71631.0,historical,road_avg,Washington,,
+2025,73104.62223905459,forecast,road_avg,Washington,68744.99877204285,77464.24570606633
+2026,73407.9808603225,forecast,road_avg,Washington,67242.54222643448,79573.41949421051
+2027,73711.33948159039,forecast,road_avg,Washington,66160.25013485647,81262.42882832431
+2028,74014.69810285828,forecast,road_avg,Washington,65295.4511688348,82733.94503688176
+2029,74318.05672412619,forecast,road_avg,Washington,64569.64229558462,84066.47115266776
+2006,78609.0,historical,overall_avg,Washington,,
+2007,79721.0,historical,overall_avg,Washington,,
+2008,77888.0,historical,overall_avg,Washington,,
+2009,75337.0,historical,overall_avg,Washington,,
+2010,74609.0,historical,overall_avg,Washington,,
+2011,73784.0,historical,overall_avg,Washington,,
+2012,74356.0,historical,overall_avg,Washington,,
+2013,75000.0,historical,overall_avg,Washington,,
+2014,73706.0,historical,overall_avg,Washington,,
+2015,74755.0,historical,overall_avg,Washington,,
+2016,75415.0,historical,overall_avg,Washington,,
+2017,71102.0,historical,overall_avg,Washington,,
+2018,65197.0,historical,overall_avg,Washington,,
+2019,68841.0,historical,overall_avg,Washington,,
+2020,7809.0,historical,overall_avg,Washington,,
+2021,63591.0,historical,overall_avg,Washington,,
+2022,63793.0,historical,overall_avg,Washington,,
+2023,69161.0,historical,overall_avg,Washington,,
+2024,67288.0,historical,overall_avg,Washington,,
+2025,66181.3716846729,forecast,overall_avg,Washington,61083.0716425054,71279.67172684039
+2026,65605.43810982222,forecast,overall_avg,Washington,58395.35304514163,72815.52317450281
+2027,65029.50453497155,forecast,overall_avg,Washington,56198.9898297069,73860.0192402362
+2028,64453.57096012088,forecast,overall_avg,Washington,54256.9708757859,74650.17104445587
+2029,63877.63738527021,forecast,overall_avg,Washington,52477.49192129365,75277.78284924677
+2006,78613.0,historical,home_avg,NY Giants,,
+2007,78731.0,historical,home_avg,NY Giants,,
+2008,79069.0,historical,home_avg,NY Giants,,
+2009,78701.0,historical,home_avg,NY Giants,,
+2010,79019.0,historical,home_avg,NY Giants,,
+2011,79475.0,historical,home_avg,NY Giants,,
+2012,80495.0,historical,home_avg,NY Giants,,
+2013,80148.0,historical,home_avg,NY Giants,,
+2014,78967.0,historical,home_avg,NY Giants,,
+2015,79001.0,historical,home_avg,NY Giants,,
+2016,78789.0,historical,home_avg,NY Giants,,
+2017,77179.0,historical,home_avg,NY Giants,,
+2018,76940.0,historical,home_avg,NY Giants,,
+2019,74664.0,historical,home_avg,NY Giants,,
+2020,,historical,home_avg,NY Giants,,
+2021,73882.0,historical,home_avg,NY Giants,,
+2022,76474.0,historical,home_avg,NY Giants,,
+2023,79307.0,historical,home_avg,NY Giants,,
+2024,78470.0,historical,home_avg,NY Giants,,
+2025,78463.15154297093,forecast,home_avg,NY Giants,76060.03187705771,80866.27120888414
+2026,78456.30307357162,forecast,home_avg,NY Giants,75057.77865003166,81854.82749711158
+2027,78449.45460417232,forecast,home_avg,NY Giants,74287.1292461427,82611.77996220195
+2028,78442.60613477301,forecast,home_avg,NY Giants,73636.36680294659,83248.84546659944
+2029,78435.75766537372,forecast,home_avg,NY Giants,73062.2187343252,83809.29659642224
+2006,70988.0,historical,road_avg,NY Giants,,
+2007,69496.0,historical,road_avg,NY Giants,,
+2008,68325.0,historical,road_avg,NY Giants,,
+2009,74289.0,historical,road_avg,NY Giants,,
+2010,69867.0,historical,road_avg,NY Giants,,
+2011,74544.0,historical,road_avg,NY Giants,,
+2012,73245.0,historical,road_avg,NY Giants,,
+2013,71043.0,historical,road_avg,NY Giants,,
+2014,70453.0,historical,road_avg,NY Giants,,
+2015,70769.0,historical,road_avg,NY Giants,,
+2016,73375.0,historical,road_avg,NY Giants,,
+2017,70700.0,historical,road_avg,NY Giants,,
+2018,70950.0,historical,road_avg,NY Giants,,
+2019,68224.0,historical,road_avg,NY Giants,,
+2020,12785.0,historical,road_avg,NY Giants,,
+2021,68537.0,historical,road_avg,NY Giants,,
+2022,69462.0,historical,road_avg,NY Giants,,
+2023,69765.0,historical,road_avg,NY Giants,,
+2024,70926.0,historical,road_avg,NY Giants,,
+2025,69965.4253628693,forecast,road_avg,NY Giants,66108.7436244715,73822.10710126709
+2026,69924.96006309055,forecast,road_avg,NY Giants,64470.78844289174,75379.13168328935
+2027,69884.49476331178,forecast,road_avg,NY Giants,63204.52604378374,76564.46348283983
+2028,69844.02946353304,forecast,road_avg,NY Giants,62130.66598673745,77557.39294032863
+2029,69803.56416375429,forecast,road_avg,NY Giants,61179.76162911476,78427.36669839382
+2006,74800.0,historical,overall_avg,NY Giants,,
+2007,74421.0,historical,overall_avg,NY Giants,,
+2008,73697.0,historical,overall_avg,NY Giants,,
+2009,76495.0,historical,overall_avg,NY Giants,,
+2010,74443.0,historical,overall_avg,NY Giants,,
+2011,77009.0,historical,overall_avg,NY Giants,,
+2012,76870.0,historical,overall_avg,NY Giants,,
+2013,75595.0,historical,overall_avg,NY Giants,,
+2014,74710.0,historical,overall_avg,NY Giants,,
+2015,74885.0,historical,overall_avg,NY Giants,,
+2016,76082.0,historical,overall_avg,NY Giants,,
+2017,73939.0,historical,overall_avg,NY Giants,,
+2018,73945.0,historical,overall_avg,NY Giants,,
+2019,71444.0,historical,overall_avg,NY Giants,,
+2020,9588.0,historical,overall_avg,NY Giants,,
+2021,71052.0,historical,overall_avg,NY Giants,,
+2022,73174.0,historical,overall_avg,NY Giants,,
+2023,74256.0,historical,overall_avg,NY Giants,,
+2024,74920.0,historical,overall_avg,NY Giants,,
+2025,74581.58843527208,forecast,overall_avg,NY Giants,71753.77111568322,77409.40575486093
+2026,74585.22573039177,forecast,overall_avg,NY Giants,70586.08812511568,78584.36333566786
+2027,74588.86302551145,forecast,overall_avg,NY Giants,69690.93975346032,79486.78629756259
+2028,74592.50032063114,forecast,overall_avg,NY Giants,68936.86568145343,80248.13495980884
+2029,74596.13761575082,forecast,overall_avg,NY Giants,68272.9458611989,80919.32937030274
+2006,77909.0,historical,home_avg,Kansas City,,
+2007,76777.0,historical,home_avg,Kansas City,,
+2008,74077.0,historical,home_avg,Kansas City,,
+2009,67514.0,historical,home_avg,Kansas City,,
+2010,67672.0,historical,home_avg,Kansas City,,
+2011,72082.0,historical,home_avg,Kansas City,,
+2012,68508.0,historical,home_avg,Kansas City,,
+2013,75359.0,historical,home_avg,Kansas City,,
+2014,74967.0,historical,home_avg,Kansas City,,
+2015,74086.0,historical,home_avg,Kansas City,,
+2016,73328.0,historical,home_avg,Kansas City,,
+2017,74106.0,historical,home_avg,Kansas City,,
+2018,75972.0,historical,home_avg,Kansas City,,
+2019,73465.0,historical,home_avg,Kansas City,,
+2020,13153.0,historical,home_avg,Kansas City,,
+2021,73227.0,historical,home_avg,Kansas City,,
+2022,73499.0,historical,home_avg,Kansas City,,
+2023,70968.0,historical,home_avg,Kansas City,,
+2024,73593.0,historical,home_avg,Kansas City,,
+2025,72665.03867355417,forecast,home_avg,Kansas City,66834.23305356219,78495.84429354615
+2026,72463.62106956779,forecast,home_avg,Kansas City,64217.61668221386,80709.62545692171
+2027,72262.20346558142,forecast,home_avg,Kansas City,62162.95188269716,82361.45504846568
+2028,72060.78586159504,forecast,home_avg,Kansas City,60399.17462161108,83722.397101579
+2029,71859.36825760867,forecast,home_avg,Kansas City,58821.2905277188,84897.44598749855
+2006,68276.0,historical,road_avg,Kansas City,,
+2007,68320.0,historical,road_avg,Kansas City,,
+2008,68700.0,historical,road_avg,Kansas City,,
+2009,63677.0,historical,road_avg,Kansas City,,
+2010,66050.0,historical,road_avg,Kansas City,,
+2011,66318.0,historical,road_avg,Kansas City,,
+2012,61496.0,historical,road_avg,Kansas City,,
+2013,64391.0,historical,road_avg,Kansas City,,
+2014,65938.0,historical,road_avg,Kansas City,,
+2015,66072.0,historical,road_avg,Kansas City,,
+2016,66073.0,historical,road_avg,Kansas City,,
+2017,67664.0,historical,road_avg,Kansas City,,
+2018,62449.0,historical,road_avg,Kansas City,,
+2019,66006.0,historical,road_avg,Kansas City,,
+2020,7464.0,historical,road_avg,Kansas City,,
+2021,66737.0,historical,road_avg,Kansas City,,
+2022,68333.0,historical,road_avg,Kansas City,,
+2023,70854.0,historical,road_avg,Kansas City,,
+2024,70292.0,historical,road_avg,Kansas City,,
+2025,71022.58859737031,forecast,road_avg,Kansas City,66703.21871268319,75341.95848205744
+2026,72058.77699733504,forecast,road_avg,Kansas City,65950.2655255046,78167.28846916548
+2027,73094.96539729975,forecast,road_avg,Kansas City,65613.59730033873,80576.33349426076
+2028,74131.15379726446,forecast,road_avg,Kansas City,65492.41402789022,82769.8935666387
+2029,75167.34219722918,forecast,road_avg,Kansas City,65508.93751510335,84825.74687935502
+2006,73781.0,historical,overall_avg,Kansas City,,
+2007,73152.0,historical,overall_avg,Kansas City,,
+2008,71389.0,historical,overall_avg,Kansas City,,
+2009,65595.0,historical,overall_avg,Kansas City,,
+2010,66861.0,historical,overall_avg,Kansas City,,
+2011,69200.0,historical,overall_avg,Kansas City,,
+2012,65002.0,historical,overall_avg,Kansas City,,
+2013,69875.0,historical,overall_avg,Kansas City,,
+2014,70453.0,historical,overall_avg,Kansas City,,
+2015,69812.0,historical,overall_avg,Kansas City,,
+2016,69700.0,historical,overall_avg,Kansas City,,
+2017,70885.0,historical,overall_avg,Kansas City,,
+2018,69211.0,historical,overall_avg,Kansas City,,
+2019,69735.0,historical,overall_avg,Kansas City,,
+2020,10965.0,historical,overall_avg,Kansas City,,
+2021,70173.0,historical,overall_avg,Kansas City,,
+2022,70764.0,historical,overall_avg,Kansas City,,
+2023,70914.0,historical,overall_avg,Kansas City,,
+2024,71612.0,historical,overall_avg,Kansas City,,
+2025,71381.16166914096,forecast,overall_avg,Kansas City,67039.67549605307,75722.64784222885
+2026,71396.25372248885,forecast,overall_avg,Kansas City,65256.46509565268,77536.04234932501
+2027,71411.34577583674,forecast,overall_avg,Kansas City,63891.67114369074,78931.02040798275
+2028,71426.43782918464,forecast,overall_avg,Kansas City,62743.46548300885,80109.41017536042
+2029,71441.52988253252,forecast,overall_avg,Kansas City,61733.671676132566,81149.38808893246
+2006,77321.0,historical,home_avg,NY Jets,,
+2007,77106.0,historical,home_avg,NY Jets,,
+2008,78482.0,historical,home_avg,NY Jets,,
+2009,77052.0,historical,home_avg,NY Jets,,
+2010,78596.0,historical,home_avg,NY Jets,,
+2011,78986.0,historical,home_avg,NY Jets,,
+2012,79088.0,historical,home_avg,NY Jets,,
+2013,76957.0,historical,home_avg,NY Jets,,
+2014,78160.0,historical,home_avg,NY Jets,,
+2015,78160.0,historical,home_avg,NY Jets,,
+2016,78160.0,historical,home_avg,NY Jets,,
+2017,77562.0,historical,home_avg,NY Jets,,
+2018,77982.0,historical,home_avg,NY Jets,,
+2019,78523.0,historical,home_avg,NY Jets,,
+2020,,historical,home_avg,NY Jets,,
+2021,71676.0,historical,home_avg,NY Jets,,
+2022,78009.0,historical,home_avg,NY Jets,,
+2023,77890.0,historical,home_avg,NY Jets,,
+2024,78789.0,historical,home_avg,NY Jets,,
+2025,77475.46279340443,forecast,home_avg,NY Jets,74162.1189647406,80788.80662206825
+2026,77465.8505403707,forecast,home_avg,NY Jets,72780.07476106912,82151.62631967227
+2027,77456.23828733698,forecast,home_avg,NY Jets,71717.35843314645,83195.1181415275
+2028,77446.62603430325,forecast,home_avg,NY Jets,70819.9383769756,84073.3136916309
+2029,77437.01378126953,forecast,home_avg,NY Jets,70028.1517475478,84845.87581499126
+2006,69934.0,historical,road_avg,NY Jets,,
+2007,69676.0,historical,road_avg,NY Jets,,
+2008,67796.0,historical,road_avg,NY Jets,,
+2009,63993.0,historical,road_avg,NY Jets,,
+2010,66825.0,historical,road_avg,NY Jets,,
+2011,69438.0,historical,road_avg,NY Jets,,
+2012,63702.0,historical,road_avg,NY Jets,,
+2013,69181.0,historical,road_avg,NY Jets,,
+2014,66494.0,historical,road_avg,NY Jets,,
+2015,72795.0,historical,road_avg,NY Jets,,
+2016,67887.0,historical,road_avg,NY Jets,,
+2017,65357.0,historical,road_avg,NY Jets,,
+2018,63370.0,historical,road_avg,NY Jets,,
+2019,61065.0,historical,road_avg,NY Jets,,
+2020,7546.0,historical,road_avg,NY Jets,,
+2021,66011.0,historical,road_avg,NY Jets,,
+2022,69742.0,historical,road_avg,NY Jets,,
+2023,73117.0,historical,road_avg,NY Jets,,
+2024,65927.0,historical,road_avg,NY Jets,,
+2025,66987.9339533493,forecast,road_avg,NY Jets,60764.83150251941,73211.03640417919
+2026,66955.5581143764,forecast,road_avg,NY Jets,58154.76222837552,75756.35400037728
+2027,66923.1822754035,forecast,road_avg,NY Jets,56144.45264985972,77701.91190094726
+2028,66890.80643643059,forecast,road_avg,NY Jets,54444.6015347708,79337.01133809038
+2029,66858.43059745769,forecast,road_avg,NY Jets,52943.1504864565,80773.71070845886
+2006,74155.0,historical,overall_avg,NY Jets,,
+2007,73639.0,historical,overall_avg,NY Jets,,
+2008,73139.0,historical,overall_avg,NY Jets,,
+2009,70958.0,historical,overall_avg,NY Jets,,
+2010,72710.0,historical,overall_avg,NY Jets,,
+2011,74212.0,historical,overall_avg,NY Jets,,
+2012,71395.0,historical,overall_avg,NY Jets,,
+2013,73069.0,historical,overall_avg,NY Jets,,
+2014,72327.0,historical,overall_avg,NY Jets,,
+2015,75477.0,historical,overall_avg,NY Jets,,
+2016,73023.0,historical,overall_avg,NY Jets,,
+2017,71459.0,historical,overall_avg,NY Jets,,
+2018,70676.0,historical,overall_avg,NY Jets,,
+2019,69794.0,historical,overall_avg,NY Jets,,
+2020,6036.0,historical,overall_avg,NY Jets,,
+2021,69010.0,historical,overall_avg,NY Jets,,
+2022,73633.0,historical,overall_avg,NY Jets,,
+2023,75644.0,historical,overall_avg,NY Jets,,
+2024,71554.0,historical,overall_avg,NY Jets,,
+2025,71979.43697417465,forecast,overall_avg,NY Jets,68433.69421434408,75525.17973400521
+2026,71923.63798395175,forecast,overall_avg,NY Jets,66909.20048431316,76938.07548359034
+2027,71867.83899372886,forecast,overall_avg,NY Jets,65726.43238313284,78009.24560432488
+2028,71812.04000350596,forecast,overall_avg,NY Jets,64720.554483844826,78903.52552316709
+2029,71756.24101328306,forecast,overall_avg,NY Jets,63827.7191715742,79684.7628549919
+2006,76347.0,historical,home_avg,Denver,,
+2007,76611.0,historical,home_avg,Denver,,
+2008,75509.0,historical,home_avg,Denver,,
+2009,75116.0,historical,home_avg,Denver,,
+2010,74908.0,historical,home_avg,Denver,,
+2011,75327.0,historical,home_avg,Denver,,
+2012,76632.0,historical,home_avg,Denver,,
+2013,76872.0,historical,home_avg,Denver,,
+2014,76939.0,historical,home_avg,Denver,,
+2015,76922.0,historical,home_avg,Denver,,
+2016,76774.0,historical,home_avg,Denver,,
+2017,76355.0,historical,home_avg,Denver,,
+2018,76446.0,historical,home_avg,Denver,,
+2019,75937.0,historical,home_avg,Denver,,
+2020,5280.0,historical,home_avg,Denver,,
+2021,76236.0,historical,home_avg,Denver,,
+2022,75980.0,historical,home_avg,Denver,,
+2023,76388.0,historical,home_avg,Denver,,
+2024,73969.0,historical,home_avg,Denver,,
+2025,74036.98870021818,forecast,home_avg,Denver,72525.64328872222,75548.33411171414
+2026,73959.60904384193,forecast,home_avg,Denver,71822.24386547401,76096.97422220986
+2027,73882.2293874657,forecast,home_avg,Denver,71264.50234696861,76499.9564279628
+2028,73804.84973108946,forecast,home_avg,Denver,70782.15890809754,76827.54055408138
+2029,73727.47007471323,forecast,home_avg,Denver,70347.99899712588,77106.94115230058
+2006,68980.0,historical,road_avg,Denver,,
+2007,67942.0,historical,road_avg,Denver,,
+2008,70658.0,historical,road_avg,Denver,,
+2009,67341.0,historical,road_avg,Denver,,
+2010,63749.0,historical,road_avg,Denver,,
+2011,63374.0,historical,road_avg,Denver,,
+2012,68089.0,historical,road_avg,Denver,,
+2013,72396.0,historical,road_avg,Denver,,
+2014,67656.0,historical,road_avg,Denver,,
+2015,65876.0,historical,road_avg,Denver,,
+2016,64968.0,historical,road_avg,Denver,,
+2017,62101.0,historical,road_avg,Denver,,
+2018,60094.0,historical,road_avg,Denver,,
+2019,62086.0,historical,road_avg,Denver,,
+2020,4335.0,historical,road_avg,Denver,,
+2021,69719.0,historical,road_avg,Denver,,
+2022,71463.0,historical,road_avg,Denver,,
+2023,67435.0,historical,road_avg,Denver,,
+2024,69250.0,historical,road_avg,Denver,,
+2025,69123.29773981743,forecast,road_avg,Denver,62630.137763368584,75616.45771626628
+2026,69006.15958304598,forecast,road_avg,Denver,59823.444681693865,78188.87448439811
+2027,68889.02142627453,forecast,road_avg,Denver,57642.5384453924,80135.50440715665
+2028,68771.88326950309,forecast,road_avg,Denver,55785.5633166054,81758.20322240077
+2029,68654.74511273163,forecast,road_avg,Denver,54135.59801661109,83173.89220885218
+2006,72909.0,historical,overall_avg,Denver,,
+2007,72896.0,historical,overall_avg,Denver,,
+2008,73084.0,historical,overall_avg,Denver,,
+2009,71228.0,historical,overall_avg,Denver,,
+2010,69700.0,historical,overall_avg,Denver,,
+2011,69350.0,historical,overall_avg,Denver,,
+2012,72361.0,historical,overall_avg,Denver,,
+2013,74634.0,historical,overall_avg,Denver,,
+2014,72297.0,historical,overall_avg,Denver,,
+2015,71399.0,historical,overall_avg,Denver,,
+2016,70871.0,historical,overall_avg,Denver,,
+2017,69228.0,historical,overall_avg,Denver,,
+2018,68270.0,historical,overall_avg,Denver,,
+2019,69011.0,historical,overall_avg,Denver,,
+2020,4713.0,historical,overall_avg,Denver,,
+2021,73169.0,historical,overall_avg,Denver,,
+2022,73589.0,historical,overall_avg,Denver,,
+2023,72175.0,historical,overall_avg,Denver,,
+2024,71609.0,historical,overall_avg,Denver,,
+2025,71645.54409055205,forecast,overall_avg,Denver,68352.27487043617,74938.81331066793
+2026,71679.8239149866,forecast,overall_avg,Denver,67022.43791935284,76337.20991062035
+2027,71714.10373942116,forecast,overall_avg,Denver,66009.9941271777,77418.21335166461
+2028,71748.38356385572,forecast,overall_avg,Denver,65161.84512362395,78334.9220040875
+2029,71782.66338829027,forecast,overall_avg,Denver,64418.68954390343,79146.63723267711
+2006,73567.0,historical,home_avg,Carolina,,
+2007,73402.0,historical,home_avg,Carolina,,
+2008,73210.0,historical,home_avg,Carolina,,
+2009,73289.0,historical,home_avg,Carolina,,
+2010,72620.0,historical,home_avg,Carolina,,
+2011,72292.0,historical,home_avg,Carolina,,
+2012,73293.0,historical,home_avg,Carolina,,
+2013,73443.0,historical,home_avg,Carolina,,
+2014,73607.0,historical,home_avg,Carolina,,
+2015,74056.0,historical,home_avg,Carolina,,
+2016,73792.0,historical,home_avg,Carolina,,
+2017,73617.0,historical,home_avg,Carolina,,
+2018,73772.0,historical,home_avg,Carolina,,
+2019,72220.0,historical,home_avg,Carolina,,
+2020,4889.0,historical,home_avg,Carolina,,
+2021,71906.0,historical,home_avg,Carolina,,
+2022,71351.0,historical,home_avg,Carolina,,
+2023,71635.0,historical,home_avg,Carolina,,
+2024,70612.0,historical,home_avg,Carolina,,
+2025,70488.23129441937,forecast,home_avg,Carolina,69383.10383694305,71593.35875189569
+2026,70233.46138275445,forecast,home_avg,Carolina,68670.57514424055,71796.34762126836
+2027,69978.69147108955,forecast,home_avg,Carolina,68064.55456590114,71892.82837627796
+2028,69723.92155942463,forecast,home_avg,Carolina,67513.66664447199,71934.17647437728
+2029,69469.15164775972,forecast,home_avg,Carolina,66998.01152904115,71940.29176647829
+2006,70728.0,historical,road_avg,Carolina,,
+2007,67441.0,historical,road_avg,Carolina,,
+2008,65704.0,historical,road_avg,Carolina,,
+2009,72038.0,historical,road_avg,Carolina,,
+2010,62992.0,historical,road_avg,Carolina,,
+2011,65030.0,historical,road_avg,Carolina,,
+2012,65263.0,historical,road_avg,Carolina,,
+2013,65585.0,historical,road_avg,Carolina,,
+2014,66806.0,historical,road_avg,Carolina,,
+2015,70654.0,historical,road_avg,Carolina,,
+2016,69032.0,historical,road_avg,Carolina,,
+2017,68127.0,historical,road_avg,Carolina,,
+2018,64071.0,historical,road_avg,Carolina,,
+2019,68071.0,historical,road_avg,Carolina,,
+2020,7536.0,historical,road_avg,Carolina,,
+2021,69654.0,historical,road_avg,Carolina,,
+2022,69905.0,historical,road_avg,Carolina,,
+2023,65646.0,historical,road_avg,Carolina,,
+2024,66892.0,historical,road_avg,Carolina,,
+2025,67249.61168839376,forecast,road_avg,Carolina,62240.25277049649,72258.97060629104
+2026,67216.0536190327,forecast,road_avg,Carolina,60131.75029854776,74300.35693951763
+2027,67182.49554967164,forecast,road_avg,Carolina,58506.03139052531,75858.95970881797
+2028,67148.93748031057,forecast,road_avg,Carolina,57130.21964451602,77167.65531610513
+2029,67115.37941094952,forecast,road_avg,Carolina,55914.112346836424,78316.64647506262
+2006,72242.0,historical,overall_avg,Carolina,,
+2007,70422.0,historical,overall_avg,Carolina,,
+2008,69457.0,historical,overall_avg,Carolina,,
+2009,72664.0,historical,overall_avg,Carolina,,
+2010,67806.0,historical,overall_avg,Carolina,,
+2011,68661.0,historical,overall_avg,Carolina,,
+2012,69278.0,historical,overall_avg,Carolina,,
+2013,69514.0,historical,overall_avg,Carolina,,
+2014,70207.0,historical,overall_avg,Carolina,,
+2015,72355.0,historical,overall_avg,Carolina,,
+2016,71571.0,historical,overall_avg,Carolina,,
+2017,70872.0,historical,overall_avg,Carolina,,
+2018,68922.0,historical,overall_avg,Carolina,,
+2019,70145.0,historical,overall_avg,Carolina,,
+2020,5478.0,historical,overall_avg,Carolina,,
+2021,70714.0,historical,overall_avg,Carolina,,
+2022,70671.0,historical,overall_avg,Carolina,,
+2023,68465.0,historical,overall_avg,Carolina,,
+2024,68862.0,historical,overall_avg,Carolina,,
+2025,69639.45566456862,forecast,overall_avg,Carolina,66993.6080867543,72285.30324238294
+2026,69585.19717930647,forecast,overall_avg,Carolina,65843.40365078946,73326.99070782348
+2027,69530.93869404431,forecast,overall_avg,Carolina,64948.19626018686,74113.68112790176
+2028,69476.68020878214,forecast,overall_avg,Carolina,64184.985053153505,74768.37536441078
+2029,69422.42172351998,forecast,overall_avg,Carolina,63506.12668142399,75338.71676561596
+2006,72334.0,historical,home_avg,Cleveland,,
+2007,73000.0,historical,home_avg,Cleveland,,
+2008,72778.0,historical,home_avg,Cleveland,,
+2009,68888.0,historical,home_avg,Cleveland,,
+2010,66116.0,historical,home_avg,Cleveland,,
+2011,65859.0,historical,home_avg,Cleveland,,
+2012,66632.0,historical,home_avg,Cleveland,,
+2013,71242.0,historical,home_avg,Cleveland,,
+2014,67425.0,historical,home_avg,Cleveland,,
+2015,66186.0,historical,home_avg,Cleveland,,
+2016,64311.0,historical,home_avg,Cleveland,,
+2017,63882.0,historical,home_avg,Cleveland,,
+2018,65765.0,historical,home_avg,Cleveland,,
+2019,67431.0,historical,home_avg,Cleveland,,
+2020,9811.0,historical,home_avg,Cleveland,,
+2021,67431.0,historical,home_avg,Cleveland,,
+2022,67431.0,historical,home_avg,Cleveland,,
+2023,67810.0,historical,home_avg,Cleveland,,
+2024,67726.0,historical,home_avg,Cleveland,,
+2025,67448.83225167383,forecast,home_avg,Cleveland,63574.50664726627,71323.15785608138
+2026,67172.61477588059,forecast,home_avg,Cleveland,61693.49096107809,72651.73859068309
+2027,66896.39730008737,forecast,home_avg,Cleveland,60185.86850818849,73606.92609198624
+2028,66620.17982429413,forecast,home_avg,Cleveland,58871.52861547902,74368.83103310924
+2029,66343.96234850089,forecast,home_avg,Cleveland,57680.70693007765,75007.21776692414
+2006,67449.0,historical,road_avg,Cleveland,,
+2007,67857.0,historical,road_avg,Cleveland,,
+2008,70674.0,historical,road_avg,Cleveland,,
+2009,62888.0,historical,road_avg,Cleveland,,
+2010,61121.0,historical,road_avg,Cleveland,,
+2011,63014.0,historical,road_avg,Cleveland,,
+2012,66526.0,historical,road_avg,Cleveland,,
+2013,69101.0,historical,road_avg,Cleveland,,
+2014,68056.0,historical,road_avg,Cleveland,,
+2015,66596.0,historical,road_avg,Cleveland,,
+2016,66292.0,historical,road_avg,Cleveland,,
+2017,57118.0,historical,road_avg,Cleveland,,
+2018,64914.0,historical,road_avg,Cleveland,,
+2019,66959.0,historical,road_avg,Cleveland,,
+2020,11654.0,historical,road_avg,Cleveland,,
+2021,69140.0,historical,road_avg,Cleveland,,
+2022,64377.0,historical,road_avg,Cleveland,,
+2023,70378.0,historical,road_avg,Cleveland,,
+2024,65874.0,historical,road_avg,Cleveland,,
+2025,66194.66634061429,forecast,road_avg,Cleveland,59692.24915088229,72697.08353034628
+2026,66186.53063661815,forecast,road_avg,Cleveland,56990.72405869121,75382.33721454508
+2027,66178.39493262199,forecast,road_avg,Cleveland,54915.87798799694,77440.91187724704
+2028,66170.25922862583,forecast,road_avg,Cleveland,53165.42484916184,79175.09360808982
+2029,66162.12352462969,forecast,road_avg,Cleveland,51622.276670325795,80701.97037893358
+2006,70054.0,historical,overall_avg,Cleveland,,
+2007,70600.0,historical,overall_avg,Cleveland,,
+2008,71726.0,historical,overall_avg,Cleveland,,
+2009,65888.0,historical,overall_avg,Cleveland,,
+2010,63619.0,historical,overall_avg,Cleveland,,
+2011,64437.0,historical,overall_avg,Cleveland,,
+2012,66579.0,historical,overall_avg,Cleveland,,
+2013,70171.0,historical,overall_avg,Cleveland,,
+2014,67740.0,historical,overall_avg,Cleveland,,
+2015,66391.0,historical,overall_avg,Cleveland,,
+2016,65301.0,historical,overall_avg,Cleveland,,
+2017,60500.0,historical,overall_avg,Cleveland,,
+2018,65340.0,historical,overall_avg,Cleveland,,
+2019,67195.0,historical,overall_avg,Cleveland,,
+2020,10662.0,historical,overall_avg,Cleveland,,
+2021,68235.0,historical,overall_avg,Cleveland,,
+2022,65814.0,historical,overall_avg,Cleveland,,
+2023,68934.0,historical,overall_avg,Cleveland,,
+2024,66745.0,historical,overall_avg,Cleveland,,
+2025,66615.50869621766,forecast,overall_avg,Cleveland,61212.288308843315,72018.729083592
+2026,66265.13824565535,forecast,overall_avg,Cleveland,58623.83069333975,73906.44579797096
+2027,65914.76779509305,forecast,overall_avg,Cleveland,56556.115559668695,75273.4200305174
+2028,65564.39734453075,forecast,overall_avg,Cleveland,54757.95656978206,76370.83811927943
+2029,65214.026893968454,forecast,overall_avg,Cleveland,53132.058810386676,77295.99497755023
+2006,70818.0,historical,home_avg,Baltimore,,
+2007,71153.0,historical,home_avg,Baltimore,,
+2008,71269.0,historical,home_avg,Baltimore,,
+2009,71082.0,historical,home_avg,Baltimore,,
+2010,71227.0,historical,home_avg,Baltimore,,
+2011,71224.0,historical,home_avg,Baltimore,,
+2012,71278.0,historical,home_avg,Baltimore,,
+2013,71135.0,historical,home_avg,Baltimore,,
+2014,71044.0,historical,home_avg,Baltimore,,
+2015,71002.0,historical,home_avg,Baltimore,,
+2016,71102.0,historical,home_avg,Baltimore,,
+2017,70588.0,historical,home_avg,Baltimore,,
+2018,70431.0,historical,home_avg,Baltimore,,
+2019,70627.0,historical,home_avg,Baltimore,,
+2020,2172.0,historical,home_avg,Baltimore,,
+2021,70537.0,historical,home_avg,Baltimore,,
+2022,70589.0,historical,home_avg,Baltimore,,
+2023,70597.0,historical,home_avg,Baltimore,,
+2024,71052.0,historical,home_avg,Baltimore,,
+2025,70942.83170835499,forecast,home_avg,Baltimore,70525.98081127516,71359.68260543482
+2026,70944.85266585457,forecast,home_avg,Baltimore,70355.3364737169,71534.36885799225
+2027,70946.87362335414,forecast,home_avg,Baltimore,70224.86669043123,71668.88055627706
+2028,70948.89458085371,forecast,home_avg,Baltimore,70115.19278669407,71782.59637501335
+2029,70950.91553835328,forecast,home_avg,Baltimore,70018.80859600102,71883.02248070553
+2006,69830.0,historical,road_avg,Baltimore,,
+2007,67526.0,historical,road_avg,Baltimore,,
+2008,68164.0,historical,road_avg,Baltimore,,
+2009,63177.0,historical,road_avg,Baltimore,,
+2010,69202.0,historical,road_avg,Baltimore,,
+2011,64263.0,historical,road_avg,Baltimore,,
+2012,67396.0,historical,road_avg,Baltimore,,
+2013,67117.0,historical,road_avg,Baltimore,,
+2014,65972.0,historical,road_avg,Baltimore,,
+2015,64487.0,historical,road_avg,Baltimore,,
+2016,70663.0,historical,road_avg,Baltimore,,
+2017,65452.0,historical,road_avg,Baltimore,,
+2018,61241.0,historical,road_avg,Baltimore,,
+2019,65792.0,historical,road_avg,Baltimore,,
+2020,11557.0,historical,road_avg,Baltimore,,
+2021,63289.0,historical,road_avg,Baltimore,,
+2022,68979.0,historical,road_avg,Baltimore,,
+2023,66919.0,historical,road_avg,Baltimore,,
+2024,72507.0,historical,road_avg,Baltimore,,
+2025,66903.16077780443,forecast,road_avg,Baltimore,60805.41912238881,73000.90243322005
+2026,67082.41223777128,forecast,road_avg,Baltimore,58458.90328883514,75705.92118670742
+2027,67261.66369773811,forecast,road_avg,Baltimore,56700.06533912911,77823.26205634711
+2028,67440.91515770496,forecast,road_avg,Baltimore,55245.43184687373,79636.3984685362
+2029,67620.1666176718,forecast,road_avg,Baltimore,53985.20176693038,81255.13146841322
+2006,70324.0,historical,overall_avg,Baltimore,,
+2007,69460.0,historical,overall_avg,Baltimore,,
+2008,69716.0,historical,overall_avg,Baltimore,,
+2009,67129.0,historical,overall_avg,Baltimore,,
+2010,70214.0,historical,overall_avg,Baltimore,,
+2011,67743.0,historical,overall_avg,Baltimore,,
+2012,69337.0,historical,overall_avg,Baltimore,,
+2013,69126.0,historical,overall_avg,Baltimore,,
+2014,68508.0,historical,overall_avg,Baltimore,,
+2015,67744.0,historical,overall_avg,Baltimore,,
+2016,70883.0,historical,overall_avg,Baltimore,,
+2017,68020.0,historical,overall_avg,Baltimore,,
+2018,65836.0,historical,overall_avg,Baltimore,,
+2019,68210.0,historical,overall_avg,Baltimore,,
+2020,7803.0,historical,overall_avg,Baltimore,,
+2021,67126.0,historical,overall_avg,Baltimore,,
+2022,69736.0,historical,overall_avg,Baltimore,,
+2023,68866.0,historical,overall_avg,Baltimore,,
+2024,71822.0,historical,overall_avg,Baltimore,,
+2025,68761.77418376597,forecast,overall_avg,Baltimore,65640.77755338699,71882.77081414495
+2026,68823.9623002788,forecast,overall_avg,Baltimore,64410.2065374761,73237.7180630815
+2027,68886.15041679163,forecast,overall_avg,Baltimore,63480.42568272396,74291.8751508593
+2028,68948.33853330446,forecast,overall_avg,Baltimore,62706.34527254648,75190.33179406244
+2029,69010.52664981729,forecast,overall_avg,Baltimore,62031.76602674208,75989.28727289248
+2006,70718.0,historical,home_avg,Green Bay,,
+2007,70805.0,historical,home_avg,Green Bay,,
+2008,70682.0,historical,home_avg,Green Bay,,
+2009,70708.0,historical,home_avg,Green Bay,,
+2010,70795.0,historical,home_avg,Green Bay,,
+2011,70512.0,historical,home_avg,Green Bay,,
+2012,70507.0,historical,home_avg,Green Bay,,
+2013,77947.0,historical,home_avg,Green Bay,,
+2014,78139.0,historical,home_avg,Green Bay,,
+2015,78413.0,historical,home_avg,Green Bay,,
+2016,78215.0,historical,home_avg,Green Bay,,
+2017,78092.0,historical,home_avg,Green Bay,,
+2018,77834.0,historical,home_avg,Green Bay,,
+2019,77845.0,historical,home_avg,Green Bay,,
+2020,,historical,home_avg,Green Bay,,
+2021,77991.0,historical,home_avg,Green Bay,,
+2022,76180.0,historical,home_avg,Green Bay,,
+2023,77829.0,historical,home_avg,Green Bay,,
+2024,78003.0,historical,home_avg,Green Bay,,
+2025,78585.18398420142,forecast,home_avg,Green Bay,74892.44258326283,82277.92538514
+2026,79148.9682999197,forecast,home_avg,Green Bay,73926.64332837572,84371.29327146367
+2027,79712.75261563796,forecast,home_avg,Green Bay,73316.73688999926,86108.76834127666
+2028,80276.53693135623,forecast,home_avg,Green Bay,72891.05412947905,87662.0197332334
+2029,80840.32124707449,forecast,home_avg,Green Bay,72583.100451248,89097.54204290098
+2006,66934.0,historical,road_avg,Green Bay,,
+2007,70079.0,historical,road_avg,Green Bay,,
+2008,65496.0,historical,road_avg,Green Bay,,
+2009,62689.0,historical,road_avg,Green Bay,,
+2010,69538.0,historical,road_avg,Green Bay,,
+2011,69865.0,historical,road_avg,Green Bay,,
+2012,67756.0,historical,road_avg,Green Bay,,
+2013,70953.0,historical,road_avg,Green Bay,,
+2014,65430.0,historical,road_avg,Green Bay,,
+2015,65059.0,historical,road_avg,Green Bay,,
+2016,67936.0,historical,road_avg,Green Bay,,
+2017,69851.0,historical,road_avg,Green Bay,,
+2018,67645.0,historical,road_avg,Green Bay,,
+2019,66487.0,historical,road_avg,Green Bay,,
+2020,13551.0,historical,road_avg,Green Bay,,
+2021,62589.0,historical,road_avg,Green Bay,,
+2022,66033.0,historical,road_avg,Green Bay,,
+2023,68863.0,historical,road_avg,Green Bay,,
+2024,64027.0,historical,road_avg,Green Bay,,
+2025,66825.63449710226,forecast,road_avg,Green Bay,62050.98475303799,71600.28424116653
+2026,66785.60280811049,forecast,road_avg,Green Bay,60033.228384473565,73537.97723174741
+2027,66745.5711191187,forecast,road_avg,Green Bay,58475.63517405364,75015.50706418377
+2028,66705.53943012693,forecast,road_avg,Green Bay,57156.23994199838,76254.83891825547
+2029,66665.50774113514,forecast,road_avg,Green Bay,55989.066344655446,77341.94913761484
+2006,69096.0,historical,overall_avg,Green Bay,,
+2007,70466.0,historical,overall_avg,Green Bay,,
+2008,68089.0,historical,overall_avg,Green Bay,,
+2009,66698.0,historical,overall_avg,Green Bay,,
+2010,70166.0,historical,overall_avg,Green Bay,,
+2011,70188.0,historical,overall_avg,Green Bay,,
+2012,69131.0,historical,overall_avg,Green Bay,,
+2013,74450.0,historical,overall_avg,Green Bay,,
+2014,71785.0,historical,overall_avg,Green Bay,,
+2015,71736.0,historical,overall_avg,Green Bay,,
+2016,73075.0,historical,overall_avg,Green Bay,,
+2017,73972.0,historical,overall_avg,Green Bay,,
+2018,72740.0,historical,overall_avg,Green Bay,,
+2019,72166.0,historical,overall_avg,Green Bay,,
+2020,0.0,historical,overall_avg,Green Bay,,
+2021,69837.0,historical,overall_avg,Green Bay,,
+2022,71405.0,historical,overall_avg,Green Bay,,
+2023,73082.0,historical,overall_avg,Green Bay,,
+2024,71426.0,historical,overall_avg,Green Bay,,
+2025,72367.61802412895,forecast,overall_avg,Green Bay,68917.06828745348,75818.16776080443
+2026,72572.70935038297,forecast,overall_avg,Green Bay,67692.8951151336,77452.52358563234
+2027,72777.80067663698,forecast,overall_avg,Green Bay,66801.27321867165,78754.32813460231
+2028,72982.89200289099,forecast,overall_avg,Green Bay,66081.79252954003,79883.99147624195
+2029,73187.983329145,forecast,overall_avg,Green Bay,65472.31955819464,80903.64710009538
+2006,70432.0,historical,home_avg,Atlanta,,
+2007,68395.0,historical,home_avg,Atlanta,,
+2008,64065.0,historical,home_avg,Atlanta,,
+2009,68173.0,historical,home_avg,Atlanta,,
+2010,67850.0,historical,home_avg,Atlanta,,
+2011,68986.0,historical,home_avg,Atlanta,,
+2012,70096.0,historical,home_avg,Atlanta,,
+2013,70224.0,historical,home_avg,Atlanta,,
+2014,70502.0,historical,home_avg,Atlanta,,
+2015,70355.0,historical,home_avg,Atlanta,,
+2016,69999.0,historical,home_avg,Atlanta,,
+2017,71960.0,historical,home_avg,Atlanta,,
+2018,72898.0,historical,home_avg,Atlanta,,
+2019,71601.0,historical,home_avg,Atlanta,,
+2020,8800.0,historical,home_avg,Atlanta,,
+2021,67586.0,historical,home_avg,Atlanta,,
+2022,69583.0,historical,home_avg,Atlanta,,
+2023,69603.0,historical,home_avg,Atlanta,,
+2024,71381.0,historical,home_avg,Atlanta,,
+2025,71345.6303817682,forecast,home_avg,Atlanta,67742.24591336648,74949.01485016993
+2026,71551.61020324212,forecast,home_avg,Atlanta,66455.65501758383,76647.5653889004
+2027,71757.59002471605,forecast,home_avg,Atlanta,65516.345046239694,77998.8350031924
+2028,71963.56984618996,forecast,home_avg,Atlanta,64756.80090938651,79170.3387829934
+2029,72169.54966766387,forecast,home_avg,Atlanta,64112.137047250675,80226.96228807706
+2006,70343.0,historical,road_avg,Atlanta,,
+2007,66520.0,historical,road_avg,Atlanta,,
+2008,67168.0,historical,road_avg,Atlanta,,
+2009,72658.0,historical,road_avg,Atlanta,,
+2010,64173.0,historical,road_avg,Atlanta,,
+2011,65191.0,historical,road_avg,Atlanta,,
+2012,67703.0,historical,road_avg,Atlanta,,
+2013,68577.0,historical,road_avg,Atlanta,,
+2014,67997.0,historical,road_avg,Atlanta,,
+2015,71478.0,historical,road_avg,Atlanta,,
+2016,69549.0,historical,road_avg,Atlanta,,
+2017,68422.0,historical,road_avg,Atlanta,,
+2018,66994.0,historical,road_avg,Atlanta,,
+2019,65831.0,historical,road_avg,Atlanta,,
+2020,10179.0,historical,road_avg,Atlanta,,
+2021,70357.0,historical,road_avg,Atlanta,,
+2022,67679.0,historical,road_avg,Atlanta,,
+2023,68843.0,historical,road_avg,Atlanta,,
+2024,67869.0,historical,road_avg,Atlanta,,
+2025,69276.83008435265,forecast,road_avg,Atlanta,65096.74717299604,73456.91299570927
+2026,69360.17262662137,forecast,road_avg,Atlanta,63448.642681536825,75271.7025717059
+2027,69443.5151688901,forecast,road_avg,Atlanta,62203.39918657,76683.63115121018
+2028,69526.85771115881,forecast,road_avg,Atlanta,61166.69188844557,77887.02353387204
+2029,69610.20025342754,forecast,road_avg,Atlanta,60263.25071204892,78957.14979480616
+2006,70388.0,historical,overall_avg,Atlanta,,
+2007,67520.0,historical,overall_avg,Atlanta,,
+2008,65617.0,historical,overall_avg,Atlanta,,
+2009,70416.0,historical,overall_avg,Atlanta,,
+2010,66011.0,historical,overall_avg,Atlanta,,
+2011,67088.0,historical,overall_avg,Atlanta,,
+2012,68899.0,historical,overall_avg,Atlanta,,
+2013,69455.0,historical,overall_avg,Atlanta,,
+2014,69166.0,historical,overall_avg,Atlanta,,
+2015,70916.0,historical,overall_avg,Atlanta,,
+2016,69774.0,historical,overall_avg,Atlanta,,
+2017,70191.0,historical,overall_avg,Atlanta,,
+2018,69946.0,historical,overall_avg,Atlanta,,
+2019,68716.0,historical,overall_avg,Atlanta,,
+2020,9413.0,historical,overall_avg,Atlanta,,
+2021,69053.0,historical,overall_avg,Atlanta,,
+2022,68687.0,historical,overall_avg,Atlanta,,
+2023,69200.0,historical,overall_avg,Atlanta,,
+2024,69728.0,historical,overall_avg,Atlanta,,
+2025,70100.17901460158,forecast,overall_avg,Atlanta,67321.0684696152,72879.28955958797
+2026,70232.47091375811,forecast,overall_avg,Atlanta,66302.21508970429,74162.72673781193
+2027,70364.76281291463,forecast,overall_avg,Atlanta,65551.2021491478,75178.32347668147
+2028,70497.05471207116,forecast,overall_avg,Atlanta,64938.8336220984,76055.27580204392
+2029,70629.34661122768,forecast,overall_avg,Atlanta,64415.06651565165,76843.62670680371
+2006,70183.0,historical,home_avg,Houston,,
+2007,70519.0,historical,home_avg,Houston,,
+2008,70420.0,historical,home_avg,Houston,,
+2009,70608.0,historical,home_avg,Houston,,
+2010,71080.0,historical,home_avg,Houston,,
+2011,71496.0,historical,home_avg,Houston,,
+2012,71665.0,historical,home_avg,Houston,,
+2013,71658.0,historical,home_avg,Houston,,
+2014,71766.0,historical,home_avg,Houston,,
+2015,71769.0,historical,home_avg,Houston,,
+2016,71868.0,historical,home_avg,Houston,,
+2017,71774.0,historical,home_avg,Houston,,
+2018,71804.0,historical,home_avg,Houston,,
+2019,71793.0,historical,home_avg,Houston,,
+2020,12400.0,historical,home_avg,Houston,,
+2021,66811.0,historical,home_avg,Houston,,
+2022,67911.0,historical,home_avg,Houston,,
+2023,71193.0,historical,home_avg,Houston,,
+2024,71333.0,historical,home_avg,Houston,,
+2025,71340.36398905382,forecast,home_avg,Houston,68518.98573955071,74161.74223855692
+2026,71409.10676926129,forecast,home_avg,Houston,67419.07538422954,75399.13815429303
+2027,71477.84954946875,forecast,home_avg,Houston,66591.07907395964,76364.62002497786
+2028,71546.59232967622,forecast,home_avg,Houston,65903.83583067001,77189.34882868243
+2029,71615.33510988369,forecast,home_avg,Houston,65306.541553755385,77924.128666012
+2006,70347.0,historical,road_avg,Houston,,
+2007,68167.0,historical,road_avg,Houston,,
+2008,64031.0,historical,road_avg,Houston,,
+2009,60623.0,historical,road_avg,Houston,,
+2010,67497.0,historical,road_avg,Houston,,
+2011,60966.0,historical,road_avg,Houston,,
+2012,68831.0,historical,road_avg,Houston,,
+2013,66301.0,historical,road_avg,Houston,,
+2014,67731.0,historical,road_avg,Houston,,
+2015,65581.0,historical,road_avg,Houston,,
+2016,68684.0,historical,road_avg,Houston,,
+2017,63281.0,historical,road_avg,Houston,,
+2018,67255.0,historical,road_avg,Houston,,
+2019,62686.0,historical,road_avg,Houston,,
+2020,12466.0,historical,road_avg,Houston,,
+2021,64156.0,historical,road_avg,Houston,,
+2022,68886.0,historical,road_avg,Houston,,
+2023,68024.0,historical,road_avg,Houston,,
+2024,70743.0,historical,road_avg,Houston,,
+2025,66594.72167820431,forecast,road_avg,Houston,60758.95835007553,72430.48500633308
+2026,66597.58672491486,forecast,road_avg,Houston,58344.571079475594,74850.60237035413
+2027,66600.4517716254,forecast,road_avg,Houston,56492.613186359114,76708.2903568917
+2028,66603.31681833595,forecast,road_avg,Houston,54931.790162078396,78274.84347459351
+2029,66606.18186504648,forecast,road_avg,Houston,53557.01836275013,79655.34536734284
+2006,70253.0,historical,overall_avg,Houston,,
+2007,69511.0,historical,overall_avg,Houston,,
+2008,67226.0,historical,overall_avg,Houston,,
+2009,65615.0,historical,overall_avg,Houston,,
+2010,69289.0,historical,overall_avg,Houston,,
+2011,66231.0,historical,overall_avg,Houston,,
+2012,70248.0,historical,overall_avg,Houston,,
+2013,68980.0,historical,overall_avg,Houston,,
+2014,69748.0,historical,overall_avg,Houston,,
+2015,68675.0,historical,overall_avg,Houston,,
+2016,70382.0,historical,overall_avg,Houston,,
+2017,67527.0,historical,overall_avg,Houston,,
+2018,69530.0,historical,overall_avg,Houston,,
+2019,67239.0,historical,overall_avg,Houston,,
+2020,12427.0,historical,overall_avg,Houston,,
+2021,65562.0,historical,overall_avg,Houston,,
+2022,68427.0,historical,overall_avg,Houston,,
+2023,69702.0,historical,overall_avg,Houston,,
+2024,71038.0,historical,overall_avg,Houston,,
+2025,68887.58881614327,forecast,overall_avg,Houston,65686.74848175311,72088.42915053343
+2026,68916.32586616349,forecast,overall_avg,Houston,64389.654054278086,73442.9976780489
+2027,68945.0629161837,forecast,overall_avg,Houston,63401.044830104176,74489.08100226322
+2028,68973.79996620391,forecast,overall_avg,Houston,62572.11929742358,75375.48063498424
+2029,69002.53701622413,forecast,overall_avg,Houston,61845.24044340457,76159.8335890437
+2006,69224.0,historical,home_avg,Philadelphia,,
+2007,68169.0,historical,home_avg,Philadelphia,,
+2008,69144.0,historical,home_avg,Philadelphia,,
+2009,69144.0,historical,home_avg,Philadelphia,,
+2010,69144.0,historical,home_avg,Philadelphia,,
+2011,69144.0,historical,home_avg,Philadelphia,,
+2012,69144.0,historical,home_avg,Philadelphia,,
+2013,69144.0,historical,home_avg,Philadelphia,,
+2014,69596.0,historical,home_avg,Philadelphia,,
+2015,69483.0,historical,home_avg,Philadelphia,,
+2016,69596.0,historical,home_avg,Philadelphia,,
+2017,69596.0,historical,home_avg,Philadelphia,,
+2018,69696.0,historical,home_avg,Philadelphia,,
+2019,69783.0,historical,home_avg,Philadelphia,,
+2020,,historical,home_avg,Philadelphia,,
+2021,69796.0,historical,home_avg,Philadelphia,,
+2022,69869.0,historical,home_avg,Philadelphia,,
+2023,69878.0,historical,home_avg,Philadelphia,,
+2024,69879.0,historical,home_avg,Philadelphia,,
+2025,70064.20983121247,forecast,home_avg,Philadelphia,69637.66365193743,70490.75601048752
+2026,70132.68055116686,forecast,home_avg,Philadelphia,69529.45315945767,70735.90794287606
+2027,70201.15127112124,forecast,home_avg,Philadelphia,69462.35161684248,70939.9509254
+2028,70269.62199107563,forecast,home_avg,Philadelphia,69416.52963252555,71122.71434962572
+2029,70338.09271103001,forecast,home_avg,Philadelphia,69384.3064586282,71291.87896343182
+2006,71154.0,historical,road_avg,Philadelphia,,
+2007,74201.0,historical,road_avg,Philadelphia,,
+2008,69836.0,historical,road_avg,Philadelphia,,
+2009,73967.0,historical,road_avg,Philadelphia,,
+2010,71596.0,historical,road_avg,Philadelphia,,
+2011,72002.0,historical,road_avg,Philadelphia,,
+2012,71717.0,historical,road_avg,Philadelphia,,
+2013,73500.0,historical,road_avg,Philadelphia,,
+2014,74616.0,historical,road_avg,Philadelphia,,
+2015,74845.0,historical,road_avg,Philadelphia,,
+2016,71066.0,historical,road_avg,Philadelphia,,
+2017,70046.0,historical,road_avg,Philadelphia,,
+2018,74021.0,historical,road_avg,Philadelphia,,
+2019,72657.0,historical,road_avg,Philadelphia,,
+2020,9194.0,historical,road_avg,Philadelphia,,
+2021,68805.0,historical,road_avg,Philadelphia,,
+2022,68954.0,historical,road_avg,Philadelphia,,
+2023,73857.0,historical,road_avg,Philadelphia,,
+2024,73471.0,historical,road_avg,Philadelphia,,
+2025,71866.20984705651,forecast,road_avg,Philadelphia,67508.76039565941,76223.65929845361
+2026,71805.90947490952,forecast,road_avg,Philadelphia,65643.54536338853,77968.27358643051
+2027,71745.60910276255,forecast,road_avg,Philadelphia,64198.285261529636,79292.93294399547
+2028,71685.30873061556,forecast,road_avg,Philadelphia,62970.40982782136,80400.20763340978
+2029,71625.00835846859,forecast,road_avg,Philadelphia,61881.4551766255,81368.56154031168
+2006,70125.0,historical,overall_avg,Philadelphia,,
+2007,70984.0,historical,overall_avg,Philadelphia,,
+2008,69490.0,historical,overall_avg,Philadelphia,,
+2009,71555.0,historical,overall_avg,Philadelphia,,
+2010,70370.0,historical,overall_avg,Philadelphia,,
+2011,70573.0,historical,overall_avg,Philadelphia,,
+2012,70430.0,historical,overall_avg,Philadelphia,,
+2013,71322.0,historical,overall_avg,Philadelphia,,
+2014,72106.0,historical,overall_avg,Philadelphia,,
+2015,72164.0,historical,overall_avg,Philadelphia,,
+2016,70331.0,historical,overall_avg,Philadelphia,,
+2017,69821.0,historical,overall_avg,Philadelphia,,
+2018,71858.0,historical,overall_avg,Philadelphia,,
+2019,71220.0,historical,overall_avg,Philadelphia,,
+2020,0.0,historical,overall_avg,Philadelphia,,
+2021,69271.0,historical,overall_avg,Philadelphia,,
+2022,69439.0,historical,overall_avg,Philadelphia,,
+2023,71984.0,historical,overall_avg,Philadelphia,,
+2024,71675.0,historical,overall_avg,Philadelphia,,
+2025,70984.38642536006,forecast,overall_avg,Philadelphia,68856.62352443884,73112.14932628129
+2026,70979.25891216908,forecast,overall_avg,Philadelphia,67970.14776017197,73988.3700641662
+2027,70974.13139897809,forecast,overall_avg,Philadelphia,67288.73794812239,74659.52484983379
+2028,70969.00388578711,forecast,overall_avg,Philadelphia,66713.47808394466,75224.52968762956
+2029,70963.87637259613,forecast,overall_avg,Philadelphia,66206.05388613413,75721.69885905813
+2006,69143.0,historical,home_avg,Tennessee,,
+2007,69143.0,historical,home_avg,Tennessee,,
+2008,69143.0,historical,home_avg,Tennessee,,
+2009,69143.0,historical,home_avg,Tennessee,,
+2010,69143.0,historical,home_avg,Tennessee,,
+2011,69143.0,historical,home_avg,Tennessee,,
+2012,69143.0,historical,home_avg,Tennessee,,
+2013,69143.0,historical,home_avg,Tennessee,,
+2014,69143.0,historical,home_avg,Tennessee,,
+2015,62304.0,historical,home_avg,Tennessee,,
+2016,64659.0,historical,home_avg,Tennessee,,
+2017,65651.0,historical,home_avg,Tennessee,,
+2018,64520.0,historical,home_avg,Tennessee,,
+2019,64509.0,historical,home_avg,Tennessee,,
+2020,12075.0,historical,home_avg,Tennessee,,
+2021,68566.0,historical,home_avg,Tennessee,,
+2022,68616.0,historical,home_avg,Tennessee,,
+2023,64520.0,historical,home_avg,Tennessee,,
+2024,64819.0,historical,home_avg,Tennessee,,
+2025,64224.13483937508,forecast,home_avg,Tennessee,60567.7866613112,67880.48301743896
+2026,63893.97581968899,forecast,home_avg,Tennessee,58723.11863751289,69064.83300186509
+2027,63563.816800002896,forecast,home_avg,Tennessee,57230.83598543435,69896.79761457143
+2028,63233.657780316804,forecast,home_avg,Tennessee,55920.96142418903,70546.35413644457
+2029,62903.49876063071,forecast,home_avg,Tennessee,54727.65568507236,71079.34183618907
+2006,69029.0,historical,road_avg,Tennessee,,
+2007,69796.0,historical,road_avg,Tennessee,,
+2008,66864.0,historical,road_avg,Tennessee,,
+2009,66618.0,historical,road_avg,Tennessee,,
+2010,70265.0,historical,road_avg,Tennessee,,
+2011,65569.0,historical,road_avg,Tennessee,,
+2012,64694.0,historical,road_avg,Tennessee,,
+2013,63082.0,historical,road_avg,Tennessee,,
+2014,67965.0,historical,road_avg,Tennessee,,
+2015,68365.0,historical,road_avg,Tennessee,,
+2016,62404.0,historical,road_avg,Tennessee,,
+2017,64363.0,historical,road_avg,Tennessee,,
+2018,70233.0,historical,road_avg,Tennessee,,
+2019,66427.0,historical,road_avg,Tennessee,,
+2020,12644.0,historical,road_avg,Tennessee,,
+2021,65022.0,historical,road_avg,Tennessee,,
+2022,68657.0,historical,road_avg,Tennessee,,
+2023,67085.0,historical,road_avg,Tennessee,,
+2024,65573.0,historical,road_avg,Tennessee,,
+2025,65795.98516015144,forecast,road_avg,Tennessee,61078.273231577135,70513.69708872575
+2026,65649.3170276334,forecast,road_avg,Tennessee,58977.464834874285,72321.1692203925
+2027,65502.64889511537,forecast,road_avg,Tennessee,57331.332139350925,73673.96565087982
+2028,65355.98076259735,forecast,road_avg,Tennessee,55920.55690544874,74791.40461974595
+2029,65209.312630079316,forecast,road_avg,Tennessee,54660.188059525535,75758.4372006331
+2006,69094.0,historical,overall_avg,Tennessee,,
+2007,69447.0,historical,overall_avg,Tennessee,,
+2008,68003.0,historical,overall_avg,Tennessee,,
+2009,67880.0,historical,overall_avg,Tennessee,,
+2010,69704.0,historical,overall_avg,Tennessee,,
+2011,67356.0,historical,overall_avg,Tennessee,,
+2012,66918.0,historical,overall_avg,Tennessee,,
+2013,66112.0,historical,overall_avg,Tennessee,,
+2014,68554.0,historical,overall_avg,Tennessee,,
+2015,65334.0,historical,overall_avg,Tennessee,,
+2016,63531.0,historical,overall_avg,Tennessee,,
+2017,65007.0,historical,overall_avg,Tennessee,,
+2018,67186.0,historical,overall_avg,Tennessee,,
+2019,65468.0,historical,overall_avg,Tennessee,,
+2020,12282.0,historical,overall_avg,Tennessee,,
+2021,66898.0,historical,overall_avg,Tennessee,,
+2022,68638.0,historical,overall_avg,Tennessee,,
+2023,65727.0,historical,overall_avg,Tennessee,,
+2024,65218.0,historical,overall_avg,Tennessee,,
+2025,65506.09640180296,forecast,overall_avg,Tennessee,62572.15401971201,68440.03878389392
+2026,65295.74277576976,forecast,overall_avg,Tennessee,61146.52166779551,69444.96388374401
+2027,65085.38914973656,forecast,overall_avg,Tennessee,60003.65187747537,70167.12642199776
+2028,64875.03552370336,forecast,overall_avg,Tennessee,59007.15075952145,70742.92028788527
+2029,64664.681897670154,forecast,overall_avg,Tennessee,58104.18728924712,71225.17650609318
+2006,68808.0,historical,home_avg,New Orleans,,
+2007,70004.0,historical,home_avg,New Orleans,,
+2008,70092.0,historical,home_avg,New Orleans,,
+2009,70105.0,historical,home_avg,New Orleans,,
+2010,70038.0,historical,home_avg,New Orleans,,
+2011,73042.0,historical,home_avg,New Orleans,,
+2012,72888.0,historical,home_avg,New Orleans,,
+2013,72901.0,historical,home_avg,New Orleans,,
+2014,73112.0,historical,home_avg,New Orleans,,
+2015,73038.0,historical,home_avg,New Orleans,,
+2016,73109.0,historical,home_avg,New Orleans,,
+2017,73139.0,historical,home_avg,New Orleans,,
+2018,73051.0,historical,home_avg,New Orleans,,
+2019,73082.0,historical,home_avg,New Orleans,,
+2020,3621.0,historical,home_avg,New Orleans,,
+2021,64929.0,historical,home_avg,New Orleans,,
+2022,68987.0,historical,home_avg,New Orleans,,
+2023,70020.0,historical,home_avg,New Orleans,,
+2024,70012.0,historical,home_avg,New Orleans,,
+2025,69523.61504195414,forecast,home_avg,New Orleans,65222.62349912611,73824.60658478216
+2026,69391.16445715979,forecast,home_avg,New Orleans,63308.643885640406,75473.68502867917
+2027,69258.71387236544,forecast,home_avg,New Orleans,61809.177997263236,76708.24974746763
+2028,69126.26328757108,forecast,home_avg,New Orleans,60524.280201915026,77728.24637322714
+2029,68993.81270277673,forecast,home_avg,New Orleans,59376.50324236156,78611.1221631919
+2006,69696.0,historical,road_avg,New Orleans,,
+2007,68021.0,historical,road_avg,New Orleans,,
+2008,69007.0,historical,road_avg,New Orleans,,
+2009,69396.0,historical,road_avg,New Orleans,,
+2010,69103.0,historical,road_avg,New Orleans,,
+2011,65199.0,historical,road_avg,New Orleans,,
+2012,72573.0,historical,road_avg,New Orleans,,
+2013,67502.0,historical,road_avg,New Orleans,,
+2014,68635.0,historical,road_avg,New Orleans,,
+2015,68840.0,historical,road_avg,New Orleans,,
+2016,69520.0,historical,road_avg,New Orleans,,
+2017,70116.0,historical,road_avg,New Orleans,,
+2018,70411.0,historical,road_avg,New Orleans,,
+2019,66549.0,historical,road_avg,New Orleans,,
+2020,8651.0,historical,road_avg,New Orleans,,
+2021,66408.0,historical,road_avg,New Orleans,,
+2022,68452.0,historical,road_avg,New Orleans,,
+2023,69823.0,historical,road_avg,New Orleans,,
+2024,74631.0,historical,road_avg,New Orleans,,
+2025,69539.53770540952,forecast,road_avg,New Orleans,65447.09507996396,73631.98033085508
+2026,69569.8446993329,forecast,road_avg,New Orleans,63782.256835194035,75357.43256347175
+2027,69600.1516932563,forecast,road_avg,New Orleans,62511.83313892403,76688.47024758857
+2028,69630.4586871797,forecast,road_avg,New Orleans,61445.573436288585,77815.3439380708
+2029,69660.76568110308,forecast,road_avg,New Orleans,60509.7857765891,78811.74558561706
+2006,69252.0,historical,overall_avg,New Orleans,,
+2007,69078.0,historical,overall_avg,New Orleans,,
+2008,69514.0,historical,overall_avg,New Orleans,,
+2009,69750.0,historical,overall_avg,New Orleans,,
+2010,69570.0,historical,overall_avg,New Orleans,,
+2011,69120.0,historical,overall_avg,New Orleans,,
+2012,72731.0,historical,overall_avg,New Orleans,,
+2013,70201.0,historical,overall_avg,New Orleans,,
+2014,70874.0,historical,overall_avg,New Orleans,,
+2015,70939.0,historical,overall_avg,New Orleans,,
+2016,71314.0,historical,overall_avg,New Orleans,,
+2017,71627.0,historical,overall_avg,New Orleans,,
+2018,71731.0,historical,overall_avg,New Orleans,,
+2019,69816.0,historical,overall_avg,New Orleans,,
+2020,5297.0,historical,overall_avg,New Orleans,,
+2021,65712.0,historical,overall_avg,New Orleans,,
+2022,68735.0,historical,overall_avg,New Orleans,,
+2023,69916.0,historical,overall_avg,New Orleans,,
+2024,72185.0,historical,overall_avg,New Orleans,,
+2025,71138.97107376413,forecast,overall_avg,New Orleans,67779.8260808816,74498.11606664666
+2026,71241.72790542338,forecast,overall_avg,New Orleans,66491.17949851124,75992.27631233553
+2027,71344.48473708263,forecast,overall_avg,New Orleans,65526.27493941949,77162.69453474577
+2028,71447.24156874188,forecast,overall_avg,New Orleans,64728.95158297682,78165.53155450695
+2029,71549.99840040113,forecast,overall_avg,New Orleans,64038.72185003774,79061.27495076452
+2006,68756.0,historical,home_avg,New England,,
+2007,68756.0,historical,home_avg,New England,,
+2008,68756.0,historical,home_avg,New England,,
+2009,68756.0,historical,home_avg,New England,,
+2010,68756.0,historical,home_avg,New England,,
+2011,68756.0,historical,home_avg,New England,,
+2012,68755.0,historical,home_avg,New England,,
+2013,68756.0,historical,home_avg,New England,,
+2014,68756.0,historical,home_avg,New England,,
+2015,66829.0,historical,home_avg,New England,,
+2016,66829.0,historical,home_avg,New England,,
+2017,65878.0,historical,home_avg,New England,,
+2018,65878.0,historical,home_avg,New England,,
+2019,65753.0,historical,home_avg,New England,,
+2020,,historical,home_avg,New England,,
+2021,65878.0,historical,home_avg,New England,,
+2022,65878.0,historical,home_avg,New England,,
+2023,63018.0,historical,home_avg,New England,,
+2024,64634.0,historical,home_avg,New England,,
+2025,63826.45798288562,forecast,home_avg,New England,62250.08981466114,65402.8261511101
+2026,63459.96688764522,forecast,home_avg,New England,61230.64564484893,65689.2881304415
+2027,63093.47579240482,forecast,home_avg,New England,60363.126033605746,65823.82555120389
+2028,62726.984697164415,forecast,home_avg,New England,59574.248360715465,65879.72103361337
+2029,62360.49360192402,forecast,home_avg,New England,58835.627220207265,65885.35998364077
+2006,70478.0,historical,road_avg,New England,,
+2007,71637.0,historical,road_avg,New England,,
+2008,68762.0,historical,road_avg,New England,,
+2009,71956.0,historical,road_avg,New England,,
+2010,67338.0,historical,road_avg,New England,,
+2011,70580.0,historical,road_avg,New England,,
+2012,71526.0,historical,road_avg,New England,,
+2013,71346.0,historical,road_avg,New England,,
+2014,70241.0,historical,road_avg,New England,,
+2015,75206.0,historical,road_avg,New England,,
+2016,70017.0,historical,road_avg,New England,,
+2017,71500.0,historical,road_avg,New England,,
+2018,67688.0,historical,road_avg,New England,,
+2019,70110.0,historical,road_avg,New England,,
+2020,9646.0,historical,road_avg,New England,,
+2021,69675.0,historical,road_avg,New England,,
+2022,69428.0,historical,road_avg,New England,,
+2023,74747.0,historical,road_avg,New England,,
+2024,70055.0,historical,road_avg,New England,,
+2025,71149.99970363083,forecast,road_avg,New England,66799.89542095119,75500.10398631048
+2026,71188.29060533093,forecast,road_avg,New England,65036.314131028084,77340.26707963376
+2027,71226.58150703102,forecast,road_avg,New England,63691.9798712069,78761.18314285514
+2028,71264.87240873111,forecast,road_avg,New England,62564.66384337182,79965.08097409041
+2029,71303.1633104312,forecast,road_avg,New England,61576.03442514656,81030.29219571585
+2006,69494.0,historical,overall_avg,New England,,
+2007,69991.0,historical,overall_avg,New England,,
+2008,68759.0,historical,overall_avg,New England,,
+2009,70249.0,historical,overall_avg,New England,,
+2010,68047.0,historical,overall_avg,New England,,
+2011,69668.0,historical,overall_avg,New England,,
+2012,70048.0,historical,overall_avg,New England,,
+2013,70051.0,historical,overall_avg,New England,,
+2014,69498.0,historical,overall_avg,New England,,
+2015,71017.0,historical,overall_avg,New England,,
+2016,68423.0,historical,overall_avg,New England,,
+2017,68689.0,historical,overall_avg,New England,,
+2018,66783.0,historical,overall_avg,New England,,
+2019,67931.0,historical,overall_avg,New England,,
+2020,6431.0,historical,overall_avg,New England,,
+2021,67665.0,historical,overall_avg,New England,,
+2022,67757.0,historical,overall_avg,New England,,
+2023,68538.0,historical,overall_avg,New England,,
+2024,67504.0,historical,overall_avg,New England,,
+2025,67647.36819015162,forecast,overall_avg,New England,65902.17592694907,69392.56045335418
+2026,67516.54989730426,forecast,overall_avg,New England,65048.47532973461,69984.6244648739
+2027,67385.7316044569,forecast,overall_avg,New England,64362.96993561397,70408.49327329984
+2028,67254.91331160955,forecast,overall_avg,New England,63764.52878520444,70745.29783801465
+2029,67124.09501876218,forecast,overall_avg,New England,63221.72648443457,71026.4635530898
+2006,68150.0,historical,home_avg,San Francisco,,
+2007,68028.0,historical,home_avg,San Francisco,,
+2008,67512.0,historical,home_avg,San Francisco,,
+2009,69732.0,historical,home_avg,San Francisco,,
+2010,69732.0,historical,home_avg,San Francisco,,
+2011,69732.0,historical,home_avg,San Francisco,,
+2012,69732.0,historical,home_avg,San Francisco,,
+2013,69732.0,historical,home_avg,San Francisco,,
+2014,70774.0,historical,home_avg,San Francisco,,
+2015,70799.0,historical,home_avg,San Francisco,,
+2016,70178.0,historical,home_avg,San Francisco,,
+2017,70144.0,historical,home_avg,San Francisco,,
+2018,69148.0,historical,home_avg,San Francisco,,
+2019,70305.0,historical,home_avg,San Francisco,,
+2020,,historical,home_avg,San Francisco,,
+2021,66670.0,historical,home_avg,San Francisco,,
+2022,71629.0,historical,home_avg,San Francisco,,
+2023,71655.0,historical,home_avg,San Francisco,,
+2024,71422.0,historical,home_avg,San Francisco,,
+2025,71253.24494533594,forecast,home_avg,San Francisco,68763.64143620079,73742.8484544711
+2026,71427.9835350053,forecast,home_avg,San Francisco,67907.15248745472,74948.81458255589
+2027,71602.72212467465,forecast,home_avg,San Francisco,67290.60235615079,75914.8418931985
+2028,71777.46071434401,forecast,home_avg,San Francisco,66798.2536960737,76756.66773261431
+2029,71952.19930401335,forecast,home_avg,San Francisco,66385.27662056513,77519.12198746158
+2006,67610.0,historical,road_avg,San Francisco,,
+2007,69201.0,historical,road_avg,San Francisco,,
+2008,67031.0,historical,road_avg,San Francisco,,
+2009,64717.0,historical,road_avg,San Francisco,,
+2010,66046.0,historical,road_avg,San Francisco,,
+2011,63430.0,historical,road_avg,San Francisco,,
+2012,67131.0,historical,road_avg,San Francisco,,
+2013,67804.0,historical,road_avg,San Francisco,,
+2014,70493.0,historical,road_avg,San Francisco,,
+2015,64520.0,historical,road_avg,San Francisco,,
+2016,67726.0,historical,road_avg,San Francisco,,
+2017,67856.0,historical,road_avg,San Francisco,,
+2018,62408.0,historical,road_avg,San Francisco,,
+2019,64751.0,historical,road_avg,San Francisco,,
+2020,12023.0,historical,road_avg,San Francisco,,
+2021,64008.0,historical,road_avg,San Francisco,,
+2022,70571.0,historical,road_avg,San Francisco,,
+2023,68118.0,historical,road_avg,San Francisco,,
+2024,69219.0,historical,road_avg,San Francisco,,
+2025,65981.4855773617,forecast,road_avg,San Francisco,61321.19414459201,70641.7770101314
+2026,65919.21523678143,forecast,road_avg,San Francisco,59328.56788794738,72509.86258561547
+2027,65856.94489620117,forecast,road_avg,San Francisco,57785.083356566094,73928.80643583623
+2028,65794.67455562089,forecast,road_avg,San Francisco,56474.0916900815,75115.25742116028
+2029,65732.40421504063,forecast,road_avg,San Francisco,55311.675776407705,76153.13265367356
+2006,67880.0,historical,overall_avg,San Francisco,,
+2007,68615.0,historical,overall_avg,San Francisco,,
+2008,67272.0,historical,overall_avg,San Francisco,,
+2009,67224.0,historical,overall_avg,San Francisco,,
+2010,67766.0,historical,overall_avg,San Francisco,,
+2011,66581.0,historical,overall_avg,San Francisco,,
+2012,68431.0,historical,overall_avg,San Francisco,,
+2013,68832.0,historical,overall_avg,San Francisco,,
+2014,70633.0,historical,overall_avg,San Francisco,,
+2015,67659.0,historical,overall_avg,San Francisco,,
+2016,69033.0,historical,overall_avg,San Francisco,,
+2017,69000.0,historical,overall_avg,San Francisco,,
+2018,65778.0,historical,overall_avg,San Francisco,,
+2019,67528.0,historical,overall_avg,San Francisco,,
+2020,7214.0,historical,overall_avg,San Francisco,,
+2021,65261.0,historical,overall_avg,San Francisco,,
+2022,71131.0,historical,overall_avg,San Francisco,,
+2023,69783.0,historical,overall_avg,San Francisco,,
+2024,70385.0,historical,overall_avg,San Francisco,,
+2025,69132.23779719725,forecast,overall_avg,San Francisco,66192.65044136734,72071.82515302715
+2026,69226.39778821704,forecast,overall_avg,San Francisco,65069.193481821916,73383.60209461217
+2027,69320.55777923684,forecast,overall_avg,San Francisco,64229.04312565238,74412.0724328213
+2028,69414.71777025664,forecast,overall_avg,San Francisco,63535.54305859681,75293.89248191647
+2029,69508.87776127644,forecast,overall_avg,San Francisco,62935.76060784189,76081.99491471099
+2006,67977.0,historical,home_avg,Seattle,,
+2007,68193.0,historical,home_avg,Seattle,,
+2008,67995.0,historical,home_avg,Seattle,,
+2009,67392.0,historical,home_avg,Seattle,,
+2010,66992.0,historical,home_avg,Seattle,,
+2011,66413.0,historical,home_avg,Seattle,,
+2012,67946.0,historical,home_avg,Seattle,,
+2013,68197.0,historical,home_avg,Seattle,,
+2014,68412.0,historical,home_avg,Seattle,,
+2015,69020.0,historical,home_avg,Seattle,,
+2016,69073.0,historical,home_avg,Seattle,,
+2017,68976.0,historical,home_avg,Seattle,,
+2018,69001.0,historical,home_avg,Seattle,,
+2019,68990.0,historical,home_avg,Seattle,,
+2020,,historical,home_avg,Seattle,,
+2021,68408.0,historical,home_avg,Seattle,,
+2022,68832.0,historical,home_avg,Seattle,,
+2023,68735.0,historical,home_avg,Seattle,,
+2024,68660.0,historical,home_avg,Seattle,,
+2025,68739.62244236891,forecast,home_avg,Seattle,67754.61256073994,69724.63232399788
+2026,68818.4712096143,forecast,home_avg,Seattle,67425.4568759431,70211.48554328551
+2027,68897.31997685968,forecast,home_avg,Seattle,67191.23281592091,70603.40713779845
+2028,68976.16874410507,forecast,home_avg,Seattle,67006.14898084714,70946.18850736301
+2029,69055.01751135047,forecast,home_avg,Seattle,66852.46845751908,71257.56656518186
+2006,67471.0,historical,road_avg,Seattle,,
+2007,67726.0,historical,road_avg,Seattle,,
+2008,66393.0,historical,road_avg,Seattle,,
+2009,66393.0,historical,road_avg,Seattle,,
+2010,59192.0,historical,road_avg,Seattle,,
+2011,67455.0,historical,road_avg,Seattle,,
+2012,61812.0,historical,road_avg,Seattle,,
+2013,68569.0,historical,road_avg,Seattle,,
+2014,69999.0,historical,road_avg,Seattle,,
+2015,68221.0,historical,road_avg,Seattle,,
+2016,70739.0,historical,road_avg,Seattle,,
+2017,72266.0,historical,road_avg,Seattle,,
+2018,70761.0,historical,road_avg,Seattle,,
+2019,68715.0,historical,road_avg,Seattle,,
+2020,12369.0,historical,road_avg,Seattle,,
+2021,65973.0,historical,road_avg,Seattle,,
+2022,69335.0,historical,road_avg,Seattle,,
+2023,71482.0,historical,road_avg,Seattle,,
+2024,68544.0,historical,road_avg,Seattle,,
+2025,70404.7463564388,forecast,road_avg,Seattle,64822.45140092263,75987.04131195496
+2026,70670.49459865183,forecast,road_avg,Seattle,62775.937363393954,78565.0518339097
+2027,70936.24284086486,forecast,road_avg,Seattle,61267.4243550754,80605.06132665431
+2028,71201.99108307788,forecast,road_avg,Seattle,60037.401172045546,82366.58099411022
+2029,71467.7393252909,forecast,road_avg,Seattle,58985.34833430258,83950.13031627922
+2006,67724.0,historical,overall_avg,Seattle,,
+2007,67960.0,historical,overall_avg,Seattle,,
+2008,67194.0,historical,overall_avg,Seattle,,
+2009,66892.0,historical,overall_avg,Seattle,,
+2010,63092.0,historical,overall_avg,Seattle,,
+2011,66934.0,historical,overall_avg,Seattle,,
+2012,65083.0,historical,overall_avg,Seattle,,
+2013,68383.0,historical,overall_avg,Seattle,,
+2014,69206.0,historical,overall_avg,Seattle,,
+2015,68620.0,historical,overall_avg,Seattle,,
+2016,69850.0,historical,overall_avg,Seattle,,
+2017,70621.0,historical,overall_avg,Seattle,,
+2018,69881.0,historical,overall_avg,Seattle,,
+2019,68853.0,historical,overall_avg,Seattle,,
+2020,4123.0,historical,overall_avg,Seattle,,
+2021,67118.0,historical,overall_avg,Seattle,,
+2022,69069.0,historical,overall_avg,Seattle,,
+2023,70190.0,historical,overall_avg,Seattle,,
+2024,68606.0,historical,overall_avg,Seattle,,
+2025,69780.89728354845,forecast,overall_avg,Seattle,66722.12319587718,72839.67137121971
+2026,69958.94585116593,forecast,overall_avg,Seattle,65633.18605214584,74284.70565018602
+2027,70136.9944187834,forecast,overall_avg,Seattle,64839.04229006164,75434.94654750517
+2028,70315.04298640088,forecast,overall_avg,Seattle,64197.49481105835,76432.5911617434
+2029,70493.09155401836,forecast,overall_avg,Seattle,63653.46476617052,77332.7183418662
+2006,67646.0,historical,home_avg,Buffalo,,
+2007,71054.0,historical,home_avg,Buffalo,,
+2008,71405.0,historical,home_avg,Buffalo,,
+2009,70128.0,historical,home_avg,Buffalo,,
+2010,63195.0,historical,home_avg,Buffalo,,
+2011,62694.0,historical,home_avg,Buffalo,,
+2012,64950.0,historical,home_avg,Buffalo,,
+2013,66267.0,historical,home_avg,Buffalo,,
+2014,67522.0,historical,home_avg,Buffalo,,
+2015,69880.0,historical,home_avg,Buffalo,,
+2016,68509.0,historical,home_avg,Buffalo,,
+2017,66775.0,historical,home_avg,Buffalo,,
+2018,64961.0,historical,home_avg,Buffalo,,
+2019,68839.0,historical,home_avg,Buffalo,,
+2020,,historical,home_avg,Buffalo,,
+2021,67816.0,historical,home_avg,Buffalo,,
+2022,68431.0,historical,home_avg,Buffalo,,
+2023,69609.0,historical,home_avg,Buffalo,,
+2024,70695.0,historical,home_avg,Buffalo,,
+2025,70407.93739816034,forecast,home_avg,Buffalo,65681.55069882135,75134.32409749934
+2026,70127.74302498523,forecast,home_avg,Buffalo,63443.622853760215,76811.86319621025
+2027,69847.54865181011,forecast,home_avg,Buffalo,61661.206752337195,78033.89055128302
+2028,69567.35427863499,forecast,home_avg,Buffalo,60114.580879956986,79020.127677313
+2029,69287.15990545988,forecast,home_avg,Buffalo,58718.63795778701,79855.68185313274
+2006,68305.0,historical,road_avg,Buffalo,,
+2007,71702.0,historical,road_avg,Buffalo,,
+2008,68806.0,historical,road_avg,Buffalo,,
+2009,67284.0,historical,road_avg,Buffalo,,
+2010,67692.0,historical,road_avg,Buffalo,,
+2011,67770.0,historical,road_avg,Buffalo,,
+2012,67230.0,historical,road_avg,Buffalo,,
+2013,66204.0,historical,road_avg,Buffalo,,
+2014,68224.0,historical,road_avg,Buffalo,,
+2015,72720.0,historical,road_avg,Buffalo,,
+2016,66707.0,historical,road_avg,Buffalo,,
+2017,63339.0,historical,road_avg,Buffalo,,
+2018,69150.0,historical,road_avg,Buffalo,,
+2019,71579.0,historical,road_avg,Buffalo,,
+2020,5919.0,historical,road_avg,Buffalo,,
+2021,68660.0,historical,road_avg,Buffalo,,
+2022,69953.0,historical,road_avg,Buffalo,,
+2023,69589.0,historical,road_avg,Buffalo,,
+2024,69711.0,historical,road_avg,Buffalo,,
+2025,68776.86151227476,forecast,road_avg,Buffalo,64593.964341743136,72959.75868280638
+2026,68790.77014354568,forecast,road_avg,Buffalo,62875.26023496782,74706.28005212355
+2027,68804.67877481661,forecast,road_avg,Buffalo,61559.68835261975,76049.66919701347
+2028,68818.58740608754,forecast,road_avg,Buffalo,60452.79306502429,77184.38174715078
+2029,68832.49603735846,forecast,road_avg,Buffalo,59479.25362115823,78185.73845355869
+2006,67928.0,historical,overall_avg,Buffalo,,
+2007,71357.0,historical,overall_avg,Buffalo,,
+2008,70019.0,historical,overall_avg,Buffalo,,
+2009,68611.0,historical,overall_avg,Buffalo,,
+2010,65593.0,historical,overall_avg,Buffalo,,
+2011,65402.0,historical,overall_avg,Buffalo,,
+2012,66166.0,historical,overall_avg,Buffalo,,
+2013,66233.0,historical,overall_avg,Buffalo,,
+2014,67873.0,historical,overall_avg,Buffalo,,
+2015,71300.0,historical,overall_avg,Buffalo,,
+2016,67668.0,historical,overall_avg,Buffalo,,
+2017,65057.0,historical,overall_avg,Buffalo,,
+2018,67056.0,historical,overall_avg,Buffalo,,
+2019,70209.0,historical,overall_avg,Buffalo,,
+2020,0.0,historical,overall_avg,Buffalo,,
+2021,68214.0,historical,overall_avg,Buffalo,,
+2022,69192.0,historical,overall_avg,Buffalo,,
+2023,69600.0,historical,overall_avg,Buffalo,,
+2024,70174.0,historical,overall_avg,Buffalo,,
+2025,69778.51932362317,forecast,overall_avg,Buffalo,65723.33269907895,73833.7059481674
+2026,69831.58416357833,forecast,overall_avg,Buffalo,64096.684241193914,75566.48408596274
+2027,69884.6490035335,forecast,overall_avg,Buffalo,62860.85973564917,76908.43827141784
+2028,69937.71384348867,forecast,overall_avg,Buffalo,61827.34059440022,78048.08709257713
+2029,69990.77868344384,forecast,overall_avg,Buffalo,60923.10572951504,79058.45163737265
+2006,66858.0,historical,home_avg,Jacksonville,,
+2007,65301.0,historical,home_avg,Jacksonville,,
+2008,65167.0,historical,home_avg,Jacksonville,,
+2009,49651.0,historical,home_avg,Jacksonville,,
+2010,63032.0,historical,home_avg,Jacksonville,,
+2011,62331.0,historical,home_avg,Jacksonville,,
+2012,64984.0,historical,home_avg,Jacksonville,,
+2013,59940.0,historical,home_avg,Jacksonville,,
+2014,62961.0,historical,home_avg,Jacksonville,,
+2015,61463.0,historical,home_avg,Jacksonville,,
+2016,61915.0,historical,home_avg,Jacksonville,,
+2017,64303.0,historical,home_avg,Jacksonville,,
+2018,66674.0,historical,home_avg,Jacksonville,,
+2019,63085.0,historical,home_avg,Jacksonville,,
+2020,15919.0,historical,home_avg,Jacksonville,,
+2021,59968.0,historical,home_avg,Jacksonville,,
+2022,66459.0,historical,home_avg,Jacksonville,,
+2023,69031.0,historical,home_avg,Jacksonville,,
+2024,65764.0,historical,home_avg,Jacksonville,,
+2025,65448.59173753886,forecast,home_avg,Jacksonville,56791.47396796019,74105.70950711753
+2026,65863.94461383355,forecast,home_avg,Jacksonville,53620.93125303428,78106.95797463282
+2027,66279.29749012823,forecast,home_avg,Jacksonville,51284.72966611062,81273.86531414583
+2028,66694.65036642292,forecast,home_avg,Jacksonville,49380.41482726559,84008.88590558026
+2029,67110.0032427176,forecast,home_avg,Jacksonville,47752.09942071834,86467.90706471687
+2006,73164.0,historical,road_avg,Jacksonville,,
+2007,69588.0,historical,road_avg,Jacksonville,,
+2008,66441.0,historical,road_avg,Jacksonville,,
+2009,69243.0,historical,road_avg,Jacksonville,,
+2010,69667.0,historical,road_avg,Jacksonville,,
+2011,68875.0,historical,road_avg,Jacksonville,,
+2012,61337.0,historical,road_avg,Jacksonville,,
+2013,65634.0,historical,road_avg,Jacksonville,,
+2014,67786.0,historical,road_avg,Jacksonville,,
+2015,67780.0,historical,road_avg,Jacksonville,,
+2016,64303.0,historical,road_avg,Jacksonville,,
+2017,66892.0,historical,road_avg,Jacksonville,,
+2018,69663.0,historical,road_avg,Jacksonville,,
+2019,63748.0,historical,road_avg,Jacksonville,,
+2020,9544.0,historical,road_avg,Jacksonville,,
+2021,66346.0,historical,road_avg,Jacksonville,,
+2022,66561.0,historical,road_avg,Jacksonville,,
+2023,66162.0,historical,road_avg,Jacksonville,,
+2024,65372.0,historical,road_avg,Jacksonville,,
+2025,65433.428053607066,forecast,road_avg,Jacksonville,60367.191426719946,70499.66468049418
+2026,65382.98824279454,forecast,road_avg,Jacksonville,58218.247694859456,72547.72879072963
+2027,65332.54843198201,forecast,road_avg,Jacksonville,56557.56919104715,74107.52767291687
+2028,65282.108621169486,forecast,road_avg,Jacksonville,55149.635367395254,75414.58187494372
+2029,65231.668810356954,forecast,road_avg,Jacksonville,53903.21932253812,76560.11829817579
+2006,69560.0,historical,overall_avg,Jacksonville,,
+2007,67301.0,historical,overall_avg,Jacksonville,,
+2008,65804.0,historical,overall_avg,Jacksonville,,
+2009,59447.0,historical,overall_avg,Jacksonville,,
+2010,66350.0,historical,overall_avg,Jacksonville,,
+2011,65603.0,historical,overall_avg,Jacksonville,,
+2012,63160.0,historical,overall_avg,Jacksonville,,
+2013,62977.0,historical,overall_avg,Jacksonville,,
+2014,65534.0,historical,overall_avg,Jacksonville,,
+2015,64832.0,historical,overall_avg,Jacksonville,,
+2016,63189.0,historical,overall_avg,Jacksonville,,
+2017,65598.0,historical,overall_avg,Jacksonville,,
+2018,68268.0,historical,overall_avg,Jacksonville,,
+2019,63417.0,historical,overall_avg,Jacksonville,,
+2020,14180.0,historical,overall_avg,Jacksonville,,
+2021,62970.0,historical,overall_avg,Jacksonville,,
+2022,66513.0,historical,overall_avg,Jacksonville,,
+2023,67681.0,historical,overall_avg,Jacksonville,,
+2024,65557.0,historical,overall_avg,Jacksonville,,
+2025,65577.92410329317,forecast,overall_avg,Jacksonville,60576.073664449475,70579.77454213687
+2026,65744.68692095649,forecast,overall_avg,Jacksonville,58671.00219338191,72818.37164853107
+2027,65911.4497386198,forecast,overall_avg,Jacksonville,57247.99064668183,74574.90883055778
+2028,66078.2125562831,forecast,overall_avg,Jacksonville,56074.51167859571,76081.9134339705
+2029,66244.97537394642,forecast,overall_avg,Jacksonville,55060.49777940475,77429.4529684881
+2006,66378.0,historical,home_avg,Los Angeles Chargers,,
+2007,65502.0,historical,home_avg,Los Angeles Chargers,,
+2008,68138.0,historical,home_avg,Los Angeles Chargers,,
+2009,67543.0,historical,home_avg,Los Angeles Chargers,,
+2010,65530.0,historical,home_avg,Los Angeles Chargers,,
+2011,65392.0,historical,home_avg,Los Angeles Chargers,,
+2012,59964.0,historical,home_avg,Los Angeles Chargers,,
+2013,64205.0,historical,home_avg,Los Angeles Chargers,,
+2014,65432.0,historical,home_avg,Los Angeles Chargers,,
+2015,66772.0,historical,home_avg,Los Angeles Chargers,,
+2016,57024.0,historical,home_avg,Los Angeles Chargers,,
+2017,25335.0,historical,home_avg,Los Angeles Chargers,,
+2018,32768.0,historical,home_avg,Los Angeles Chargers,,
+2019,31750.0,historical,home_avg,Los Angeles Chargers,,
+2020,,historical,home_avg,Los Angeles Chargers,,
+2021,70240.0,historical,home_avg,Los Angeles Chargers,,
+2022,69955.0,historical,home_avg,Los Angeles Chargers,,
+2023,69736.0,historical,home_avg,Los Angeles Chargers,,
+2024,69966.0,historical,home_avg,Los Angeles Chargers,,
+2025,69725.10734323935,forecast,home_avg,Los Angeles Chargers,45720.72818973403,93729.48649674466
+2026,69486.55817385534,forecast,home_avg,Los Angeles Chargers,35539.23961862214,103433.87672908854
+2027,69248.00900447136,forecast,home_avg,Los Angeles Chargers,27671.20470645296,110824.81330248975
+2028,69009.45983508737,forecast,home_avg,Los Angeles Chargers,21000.701528076745,117018.21814209799
+2029,68770.91066570337,forecast,home_avg,Los Angeles Chargers,15095.48712078663,122446.33421062012
+2006,70115.0,historical,road_avg,Los Angeles Chargers,,
+2007,71186.0,historical,road_avg,Los Angeles Chargers,,
+2008,67865.0,historical,road_avg,Los Angeles Chargers,,
+2009,72059.0,historical,road_avg,Los Angeles Chargers,,
+2010,63059.0,historical,road_avg,Los Angeles Chargers,,
+2011,67718.0,historical,road_avg,Los Angeles Chargers,,
+2012,67793.0,historical,road_avg,Los Angeles Chargers,,
+2013,67349.0,historical,road_avg,Los Angeles Chargers,,
+2014,68259.0,historical,road_avg,Los Angeles Chargers,,
+2015,65284.0,historical,road_avg,Los Angeles Chargers,,
+2016,67734.0,historical,road_avg,Los Angeles Chargers,,
+2017,72585.0,historical,road_avg,Los Angeles Chargers,,
+2018,67676.0,historical,road_avg,Los Angeles Chargers,,
+2019,63329.0,historical,road_avg,Los Angeles Chargers,,
+2020,7670.0,historical,road_avg,Los Angeles Chargers,,
+2021,65149.0,historical,road_avg,Los Angeles Chargers,,
+2022,68481.0,historical,road_avg,Los Angeles Chargers,,
+2023,70413.0,historical,road_avg,Los Angeles Chargers,,
+2024,67900.0,historical,road_avg,Los Angeles Chargers,,
+2025,67128.59670982619,forecast,road_avg,Los Angeles Chargers,61481.64887395731,72775.54454569507
+2026,67149.16207929041,forecast,road_avg,Los Angeles Chargers,59163.17186379125,75135.15229478957
+2027,67169.72744875464,forecast,road_avg,Los Angeles Chargers,57388.926889338625,76950.52800817064
+2028,67190.29281821886,forecast,road_avg,Los Angeles Chargers,55896.39714648111,78484.1884899566
+2029,67210.85818768309,forecast,road_avg,Los Angeles Chargers,54583.898961284955,79837.81741408122
+2006,68122.0,historical,overall_avg,Los Angeles Chargers,,
+2007,67938.0,historical,overall_avg,Los Angeles Chargers,,
+2008,68011.0,historical,overall_avg,Los Angeles Chargers,,
+2009,69801.0,historical,overall_avg,Los Angeles Chargers,,
+2010,64294.0,historical,overall_avg,Los Angeles Chargers,,
+2011,66555.0,historical,overall_avg,Los Angeles Chargers,,
+2012,63879.0,historical,overall_avg,Los Angeles Chargers,,
+2013,65777.0,historical,overall_avg,Los Angeles Chargers,,
+2014,66845.0,historical,overall_avg,Los Angeles Chargers,,
+2015,66028.0,historical,overall_avg,Los Angeles Chargers,,
+2016,62379.0,historical,overall_avg,Los Angeles Chargers,,
+2017,48960.0,historical,overall_avg,Los Angeles Chargers,,
+2018,50222.0,historical,overall_avg,Los Angeles Chargers,,
+2019,47540.0,historical,overall_avg,Los Angeles Chargers,,
+2020,6392.0,historical,overall_avg,Los Angeles Chargers,,
+2021,67844.0,historical,overall_avg,Los Angeles Chargers,,
+2022,69175.0,historical,overall_avg,Los Angeles Chargers,,
+2023,70055.0,historical,overall_avg,Los Angeles Chargers,,
+2024,68872.0,historical,overall_avg,Los Angeles Chargers,,
+2025,68573.94517317176,forecast,overall_avg,Los Angeles Chargers,56625.627536238215,80522.2628101053
+2026,68252.3108229857,forecast,overall_avg,Los Angeles Chargers,51354.83797329264,85149.78367267876
+2027,67930.67647279966,forecast,overall_avg,Los Angeles Chargers,47235.58326065946,88625.76968493986
+2028,67609.04212261361,forecast,overall_avg,Los Angeles Chargers,43712.406848746534,91505.67739648069
+2029,67287.40777242757,forecast,overall_avg,Los Angeles Chargers,40570.157319484526,94004.65822537061
+2006,65983.0,historical,home_avg,Cincinnati,,
+2007,65790.0,historical,home_avg,Cincinnati,,
+2008,64582.0,historical,home_avg,Cincinnati,,
+2009,64004.0,historical,home_avg,Cincinnati,,
+2010,60364.0,historical,home_avg,Cincinnati,,
+2011,49251.0,historical,home_avg,Cincinnati,,
+2012,61188.0,historical,home_avg,Cincinnati,,
+2013,63297.0,historical,home_avg,Cincinnati,,
+2014,60703.0,historical,home_avg,Cincinnati,,
+2015,61389.0,historical,home_avg,Cincinnati,,
+2016,60511.0,historical,home_avg,Cincinnati,,
+2017,53275.0,historical,home_avg,Cincinnati,,
+2018,50753.0,historical,home_avg,Cincinnati,,
+2019,47179.0,historical,home_avg,Cincinnati,,
+2020,9566.0,historical,home_avg,Cincinnati,,
+2021,60325.0,historical,home_avg,Cincinnati,,
+2022,66247.0,historical,home_avg,Cincinnati,,
+2023,66040.0,historical,home_avg,Cincinnati,,
+2024,66294.0,historical,home_avg,Cincinnati,,
+2025,65666.96349336565,forecast,home_avg,Cincinnati,54602.084933458325,76731.84205327297
+2026,65044.321853341076,forecast,home_avg,Cincinnati,49396.22052790886,80692.4231787733
+2027,64421.680213316504,forecast,home_avg,Cincinnati,45256.74836797747,83586.61205865553
+2028,63799.03857329193,forecast,home_avg,Cincinnati,41669.281453477284,85928.79569310657
+2029,63176.39693326736,forecast,home_avg,Cincinnati,38434.5763105346,87918.21755600012
+2006,70869.0,historical,road_avg,Cincinnati,,
+2007,69503.0,historical,road_avg,Cincinnati,,
+2008,69974.0,historical,road_avg,Cincinnati,,
+2009,65379.0,historical,road_avg,Cincinnati,,
+2010,68866.0,historical,road_avg,Cincinnati,,
+2011,66124.0,historical,road_avg,Cincinnati,,
+2012,66488.0,historical,road_avg,Cincinnati,,
+2013,61928.0,historical,road_avg,Cincinnati,,
+2014,67442.0,historical,road_avg,Cincinnati,,
+2015,67125.0,historical,road_avg,Cincinnati,,
+2016,72587.0,historical,road_avg,Cincinnati,,
+2017,69039.0,historical,road_avg,Cincinnati,,
+2018,63157.0,historical,road_avg,Cincinnati,,
+2019,66276.0,historical,road_avg,Cincinnati,,
+2020,9856.0,historical,road_avg,Cincinnati,,
+2021,64148.0,historical,road_avg,Cincinnati,,
+2022,71740.0,historical,road_avg,Cincinnati,,
+2023,68791.0,historical,road_avg,Cincinnati,,
+2024,72934.0,historical,road_avg,Cincinnati,,
+2025,70218.61200566447,forecast,road_avg,Cincinnati,63773.45846852748,76663.76554280147
+2026,70909.6827138311,forecast,road_avg,Cincinnati,61794.859170035044,80024.50625762716
+2027,71600.75342199775,forecast,road_avg,Cincinnati,60437.42003309422,82764.0868109013
+2028,72291.8241301644,forecast,road_avg,Cincinnati,59401.517055890414,85182.13120443838
+2029,72982.89483833105,forecast,road_avg,Cincinnati,58571.09340386952,87394.69627279259
+2006,68263.0,historical,overall_avg,Cincinnati,,
+2007,67523.0,historical,overall_avg,Cincinnati,,
+2008,67278.0,historical,overall_avg,Cincinnati,,
+2009,64691.0,historical,overall_avg,Cincinnati,,
+2010,64615.0,historical,overall_avg,Cincinnati,,
+2011,57687.0,historical,overall_avg,Cincinnati,,
+2012,63838.0,historical,overall_avg,Cincinnati,,
+2013,62612.0,historical,overall_avg,Cincinnati,,
+2014,64072.0,historical,overall_avg,Cincinnati,,
+2015,64257.0,historical,overall_avg,Cincinnati,,
+2016,66952.0,historical,overall_avg,Cincinnati,,
+2017,61157.0,historical,overall_avg,Cincinnati,,
+2018,56955.0,historical,overall_avg,Cincinnati,,
+2019,56727.0,historical,overall_avg,Cincinnati,,
+2020,9687.0,historical,overall_avg,Cincinnati,,
+2021,62124.0,historical,overall_avg,Cincinnati,,
+2022,69337.0,historical,overall_avg,Cincinnati,,
+2023,67335.0,historical,overall_avg,Cincinnati,,
+2024,69809.0,historical,overall_avg,Cincinnati,,
+2025,69090.83100518819,forecast,overall_avg,Cincinnati,61856.8479246777,76324.81408569867
+2026,68528.24646142313,forecast,overall_avg,Cincinnati,58297.8494789877,78758.64344385856
+2027,67965.66191765806,forecast,overall_avg,Cincinnati,55436.03568112027,80495.28815419585
+2028,67403.077373893,forecast,overall_avg,Cincinnati,52935.11121287203,81871.04353491397
+2029,66840.49283012793,forecast,overall_avg,Cincinnati,50664.81491402315,83016.1707462327
+2006,65582.0,historical,home_avg,Tampa Bay,,
+2007,65316.0,historical,home_avg,Tampa Bay,,
+2008,64511.0,historical,home_avg,Tampa Bay,,
+2009,62991.0,historical,home_avg,Tampa Bay,,
+2010,49314.0,historical,home_avg,Tampa Bay,,
+2011,56614.0,historical,home_avg,Tampa Bay,,
+2012,55102.0,historical,home_avg,Tampa Bay,,
+2013,58818.0,historical,home_avg,Tampa Bay,,
+2014,59659.0,historical,home_avg,Tampa Bay,,
+2015,61560.0,historical,home_avg,Tampa Bay,,
+2016,60624.0,historical,home_avg,Tampa Bay,,
+2017,59952.0,historical,home_avg,Tampa Bay,,
+2018,54356.0,historical,home_avg,Tampa Bay,,
+2019,51898.0,historical,home_avg,Tampa Bay,,
+2020,14483.0,historical,home_avg,Tampa Bay,,
+2021,65372.0,historical,home_avg,Tampa Bay,,
+2022,68988.0,historical,home_avg,Tampa Bay,,
+2023,63756.0,historical,home_avg,Tampa Bay,,
+2024,63689.0,historical,home_avg,Tampa Bay,,
+2025,62954.56194435316,forecast,home_avg,Tampa Bay,52571.394651581344,73337.72923712498
+2026,62224.764270542175,forecast,home_avg,Tampa Bay,47540.74826471554,76908.78027636881
+2027,61494.96659673119,forecast,home_avg,Tampa Bay,43510.793302163016,79479.13989129936
+2028,60765.168922920195,forecast,home_avg,Tampa Bay,39998.83433737657,81531.50350846382
+2029,60035.37124910921,forecast,home_avg,Tampa Bay,36817.90336071897,83252.83913749945
+2006,68265.0,historical,road_avg,Tampa Bay,,
+2007,68587.0,historical,road_avg,Tampa Bay,,
+2008,66620.0,historical,road_avg,Tampa Bay,,
+2009,71059.0,historical,road_avg,Tampa Bay,,
+2010,67812.0,historical,road_avg,Tampa Bay,,
+2011,68246.0,historical,road_avg,Tampa Bay,,
+2012,70454.0,historical,road_avg,Tampa Bay,,
+2013,68196.0,historical,road_avg,Tampa Bay,,
+2014,68318.0,historical,road_avg,Tampa Bay,,
+2015,68614.0,historical,road_avg,Tampa Bay,,
+2016,71200.0,historical,road_avg,Tampa Bay,,
+2017,69667.0,historical,road_avg,Tampa Bay,,
+2018,70623.0,historical,road_avg,Tampa Bay,,
+2019,66734.0,historical,road_avg,Tampa Bay,,
+2020,7248.0,historical,road_avg,Tampa Bay,,
+2021,67760.0,historical,road_avg,Tampa Bay,,
+2022,71863.0,historical,road_avg,Tampa Bay,,
+2023,69971.0,historical,road_avg,Tampa Bay,,
+2024,73369.0,historical,road_avg,Tampa Bay,,
+2025,70443.26469078644,forecast,road_avg,Tampa Bay,67162.4717253959,73724.05765617698
+2026,70562.14833108126,forecast,road_avg,Tampa Bay,65922.40642408772,75201.8902380748
+2027,70681.03197137607,forecast,road_avg,Tampa Bay,64998.53186620509,76363.53207654704
+2028,70799.91561167088,forecast,road_avg,Tampa Bay,64238.3296808898,77361.50154245195
+2029,70918.79925196568,forecast,road_avg,Tampa Bay,63582.72316124932,78254.87534268205
+2006,66923.0,historical,overall_avg,Tampa Bay,,
+2007,66842.0,historical,overall_avg,Tampa Bay,,
+2008,65565.0,historical,overall_avg,Tampa Bay,,
+2009,67294.0,historical,overall_avg,Tampa Bay,,
+2010,58563.0,historical,overall_avg,Tampa Bay,,
+2011,62817.0,historical,overall_avg,Tampa Bay,,
+2012,62778.0,historical,overall_avg,Tampa Bay,,
+2013,63507.0,historical,overall_avg,Tampa Bay,,
+2014,63988.0,historical,overall_avg,Tampa Bay,,
+2015,65087.0,historical,overall_avg,Tampa Bay,,
+2016,65912.0,historical,overall_avg,Tampa Bay,,
+2017,64810.0,historical,overall_avg,Tampa Bay,,
+2018,62490.0,historical,overall_avg,Tampa Bay,,
+2019,59316.0,historical,overall_avg,Tampa Bay,,
+2020,12312.0,historical,overall_avg,Tampa Bay,,
+2021,66636.0,historical,overall_avg,Tampa Bay,,
+2022,70341.0,historical,overall_avg,Tampa Bay,,
+2023,67046.0,historical,overall_avg,Tampa Bay,,
+2024,67924.0,historical,overall_avg,Tampa Bay,,
+2025,67918.02080351538,forecast,overall_avg,Tampa Bay,61900.60272882675,73935.438878204
+2026,68072.69816197635,forecast,overall_avg,Tampa Bay,59562.7839102827,76582.61241367001
+2027,68227.37552043734,forecast,overall_avg,Tampa Bay,57804.90168469335,78649.84935618134
+2028,68382.05287889832,forecast,overall_avg,Tampa Bay,56347.21672952107,80416.88902827557
+2029,68536.73023735931,forecast,overall_avg,Tampa Bay,55081.37437331964,81992.08610139898
+2006,65326.0,historical,home_avg,Los Angeles Rams,,
+2007,64294.0,historical,home_avg,Los Angeles Rams,,
+2008,59980.0,historical,home_avg,Los Angeles Rams,,
+2009,55237.0,historical,home_avg,Los Angeles Rams,,
+2010,52922.0,historical,home_avg,Los Angeles Rams,,
+2011,56394.0,historical,home_avg,Los Angeles Rams,,
+2012,56703.0,historical,home_avg,Los Angeles Rams,,
+2013,56957.0,historical,home_avg,Los Angeles Rams,,
+2014,57018.0,historical,home_avg,Los Angeles Rams,,
+2015,52402.0,historical,home_avg,Los Angeles Rams,,
+2016,74121.0,historical,home_avg,Los Angeles Rams,,
+2017,63392.0,historical,home_avg,Los Angeles Rams,,
+2018,72429.0,historical,home_avg,Los Angeles Rams,,
+2019,71229.0,historical,home_avg,Los Angeles Rams,,
+2020,,historical,home_avg,Los Angeles Rams,,
+2021,71598.0,historical,home_avg,Los Angeles Rams,,
+2022,72734.0,historical,home_avg,Los Angeles Rams,,
+2023,73150.0,historical,home_avg,Los Angeles Rams,,
+2024,73194.0,historical,home_avg,Los Angeles Rams,,
+2025,75314.27983449661,forecast,home_avg,Los Angeles Rams,64009.45693470365,86619.10273428957
+2026,76474.7359561536,forecast,home_avg,Los Angeles Rams,60487.30209104045,92462.16982126674
+2027,77635.19207781059,forecast,home_avg,Los Angeles Rams,58054.66444480105,97215.71971082012
+2028,78795.64819946759,forecast,home_avg,Los Angeles Rams,56186.00239988166,101405.29399905351
+2029,79956.10432112457,forecast,home_avg,Los Angeles Rams,54677.75184359122,105234.45679865792
+2006,68332.0,historical,road_avg,Los Angeles Rams,,
+2007,66916.0,historical,road_avg,Los Angeles Rams,,
+2008,71283.0,historical,road_avg,Los Angeles Rams,,
+2009,62715.0,historical,road_avg,Los Angeles Rams,,
+2010,60976.0,historical,road_avg,Los Angeles Rams,,
+2011,68862.0,historical,road_avg,Los Angeles Rams,,
+2012,61862.0,historical,road_avg,Los Angeles Rams,,
+2013,69917.0,historical,road_avg,Los Angeles Rams,,
+2014,67908.0,historical,road_avg,Los Angeles Rams,,
+2015,67306.0,historical,road_avg,Los Angeles Rams,,
+2016,66618.0,historical,road_avg,Los Angeles Rams,,
+2017,69390.0,historical,road_avg,Los Angeles Rams,,
+2018,65371.0,historical,road_avg,Los Angeles Rams,,
+2019,70673.0,historical,road_avg,Los Angeles Rams,,
+2020,14063.0,historical,road_avg,Los Angeles Rams,,
+2021,68332.0,historical,road_avg,Los Angeles Rams,,
+2022,70451.0,historical,road_avg,Los Angeles Rams,,
+2023,72205.0,historical,road_avg,Los Angeles Rams,,
+2024,67534.0,historical,road_avg,Los Angeles Rams,,
+2025,69432.94769438506,forecast,road_avg,Los Angeles Rams,63373.91727230148,75491.97811646864
+2026,69590.21050085116,forecast,road_avg,Los Angeles Rams,61021.44750310938,78158.97349859294
+2027,69747.47330731727,forecast,road_avg,Los Angeles Rams,59252.92477166301,80242.02184297153
+2028,69904.73611378338,forecast,road_avg,Los Angeles Rams,57786.67526961622,82022.79695795054
+2029,70061.99892024948,forecast,road_avg,Los Angeles Rams,56513.59501873135,83610.4028217676
+2006,66614.0,historical,overall_avg,Los Angeles Rams,,
+2007,65605.0,historical,overall_avg,Los Angeles Rams,,
+2008,65632.0,historical,overall_avg,Los Angeles Rams,,
+2009,58976.0,historical,overall_avg,Los Angeles Rams,,
+2010,56949.0,historical,overall_avg,Los Angeles Rams,,
+2011,62628.0,historical,overall_avg,Los Angeles Rams,,
+2012,59454.0,historical,overall_avg,Los Angeles Rams,,
+2013,63437.0,historical,overall_avg,Los Angeles Rams,,
+2014,62463.0,historical,overall_avg,Los Angeles Rams,,
+2015,59854.0,historical,overall_avg,Los Angeles Rams,,
+2016,67452.0,historical,overall_avg,Los Angeles Rams,,
+2017,66391.0,historical,overall_avg,Los Angeles Rams,,
+2018,68900.0,historical,overall_avg,Los Angeles Rams,,
+2019,70933.0,historical,overall_avg,Los Angeles Rams,,
+2020,0.0,historical,overall_avg,Los Angeles Rams,,
+2021,69869.0,historical,overall_avg,Los Angeles Rams,,
+2022,71659.0,historical,overall_avg,Los Angeles Rams,,
+2023,72649.0,historical,overall_avg,Los Angeles Rams,,
+2024,70530.0,historical,overall_avg,Los Angeles Rams,,
+2025,72059.72313425333,forecast,overall_avg,Los Angeles Rams,65788.41061491497,78331.0356535917
+2026,72647.59942904189,forecast,overall_avg,Los Angeles Rams,63778.6242103134,81516.57464777038
+2027,73235.47572383043,forecast,overall_avg,Los Angeles Rams,62373.24381019361,84097.70763746725
+2028,73823.35201861899,forecast,overall_avg,Los Angeles Rams,61280.726979942265,86365.9770572957
+2029,74411.22831340753,forecast,overall_avg,Los Angeles Rams,60388.14721202149,88434.30941479356
+2006,63603.0,historical,home_avg,Arizona,,
+2007,64580.0,historical,home_avg,Arizona,,
+2008,64096.0,historical,home_avg,Arizona,,
+2009,63142.0,historical,home_avg,Arizona,,
+2010,62774.0,historical,home_avg,Arizona,,
+2011,61181.0,historical,home_avg,Arizona,,
+2012,60890.0,historical,home_avg,Arizona,,
+2013,61033.0,historical,home_avg,Arizona,,
+2014,61979.0,historical,home_avg,Arizona,,
+2015,64185.0,historical,home_avg,Arizona,,
+2016,64831.0,historical,home_avg,Arizona,,
+2017,64217.0,historical,home_avg,Arizona,,
+2018,62013.0,historical,home_avg,Arizona,,
+2019,61323.0,historical,home_avg,Arizona,,
+2020,2800.0,historical,home_avg,Arizona,,
+2021,62622.0,historical,home_avg,Arizona,,
+2022,65203.0,historical,home_avg,Arizona,,
+2023,62864.0,historical,home_avg,Arizona,,
+2024,63975.0,historical,home_avg,Arizona,,
+2025,63929.201300017645,forecast,home_avg,Arizona,61286.86523617258,66571.5373638627
+2026,63914.114777571136,forecast,home_avg,Arizona,60177.28727973391,67650.94227540836
+2027,63899.028255124635,forecast,home_avg,Arizona,59322.367941873425,68475.68856837584
+2028,63883.94173267813,forecast,home_avg,Arizona,58599.269604988,69168.61386036826
+2029,63868.855210231624,forecast,home_avg,Arizona,57960.41215207484,69777.29826838842
+2006,67852.0,historical,road_avg,Arizona,,
+2007,69472.0,historical,road_avg,Arizona,,
+2008,71787.0,historical,road_avg,Arizona,,
+2009,61750.0,historical,road_avg,Arizona,,
+2010,65066.0,historical,road_avg,Arizona,,
+2011,64026.0,historical,road_avg,Arizona,,
+2012,67639.0,historical,road_avg,Arizona,,
+2013,63679.0,historical,road_avg,Arizona,,
+2014,69686.0,historical,road_avg,Arizona,,
+2015,64369.0,historical,road_avg,Arizona,,
+2016,69107.0,historical,road_avg,Arizona,,
+2017,68667.0,historical,road_avg,Arizona,,
+2018,65252.0,historical,road_avg,Arizona,,
+2019,63740.0,historical,road_avg,Arizona,,
+2020,15147.0,historical,road_avg,Arizona,,
+2021,65553.0,historical,road_avg,Arizona,,
+2022,69370.0,historical,road_avg,Arizona,,
+2023,67850.0,historical,road_avg,Arizona,,
+2024,70328.0,historical,road_avg,Arizona,,
+2025,67979.02681019918,forecast,road_avg,Arizona,61975.41387039484,73982.63975000352
+2026,68300.89016132266,forecast,road_avg,Arizona,59810.499318612754,76791.28100403257
+2027,68622.75351244613,forecast,road_avg,Arizona,58224.19087172706,79021.3161531652
+2028,68944.61686356961,forecast,road_avg,Arizona,56937.390983960926,80951.84274317829
+2029,69266.48021469309,forecast,road_avg,Arizona,55841.99357069323,82690.96685869295
+2006,65424.0,historical,overall_avg,Arizona,,
+2007,67026.0,historical,overall_avg,Arizona,,
+2008,67942.0,historical,overall_avg,Arizona,,
+2009,62446.0,historical,overall_avg,Arizona,,
+2010,63920.0,historical,overall_avg,Arizona,,
+2011,62603.0,historical,overall_avg,Arizona,,
+2012,64265.0,historical,overall_avg,Arizona,,
+2013,62356.0,historical,overall_avg,Arizona,,
+2014,65832.0,historical,overall_avg,Arizona,,
+2015,64277.0,historical,overall_avg,Arizona,,
+2016,66827.0,historical,overall_avg,Arizona,,
+2017,66442.0,historical,overall_avg,Arizona,,
+2018,63632.0,historical,overall_avg,Arizona,,
+2019,62531.0,historical,overall_avg,Arizona,,
+2020,7738.0,historical,overall_avg,Arizona,,
+2021,64174.0,historical,overall_avg,Arizona,,
+2022,67164.0,historical,overall_avg,Arizona,,
+2023,65504.0,historical,overall_avg,Arizona,,
+2024,66965.0,historical,overall_avg,Arizona,,
+2025,65913.13875639347,forecast,overall_avg,Arizona,61973.05615525901,69853.22135752793
+2026,66058.50623756187,forecast,overall_avg,Arizona,60486.387986167254,71630.6244889565
+2027,66203.87371873026,forecast,overall_avg,Arizona,59379.450467547234,73028.2969699133
+2028,66349.24119989865,forecast,overall_avg,Arizona,58469.07599762973,74229.40640216757
+2029,66494.60868106705,forecast,overall_avg,Arizona,57684.31614796621,75304.9012141679
+2006,63288.0,historical,home_avg,Dallas,,
+2007,63534.0,historical,home_avg,Dallas,,
+2008,63368.0,historical,home_avg,Dallas,,
+2009,89756.0,historical,home_avg,Dallas,,
+2010,87047.0,historical,home_avg,Dallas,,
+2011,85512.0,historical,home_avg,Dallas,,
+2012,88531.0,historical,home_avg,Dallas,,
+2013,88043.0,historical,home_avg,Dallas,,
+2014,90069.0,historical,home_avg,Dallas,,
+2015,91459.0,historical,home_avg,Dallas,,
+2016,92539.0,historical,home_avg,Dallas,,
+2017,92721.0,historical,home_avg,Dallas,,
+2018,91619.0,historical,home_avg,Dallas,,
+2019,90929.0,historical,home_avg,Dallas,,
+2020,28187.0,historical,home_avg,Dallas,,
+2021,93421.0,historical,home_avg,Dallas,,
+2022,93465.0,historical,home_avg,Dallas,,
+2023,93594.0,historical,home_avg,Dallas,,
+2024,92972.0,historical,home_avg,Dallas,,
+2025,95241.84766671364,forecast,home_avg,Dallas,83184.51642454046,107299.17890888682
+2026,96451.69583328598,forecast,home_avg,Dallas,79400.05446457982,113503.33720199214
+2027,97661.54399985832,forecast,home_avg,Dallas,76777.6336847268,118545.45431498984
+2028,98871.39216643067,forecast,home_avg,Dallas,74756.7296820843,122986.05465077703
+2029,100081.240333003,forecast,home_avg,Dallas,73120.22804827179,127042.25261773422
+2006,72900.0,historical,road_avg,Dallas,,
+2007,72550.0,historical,road_avg,Dallas,,
+2008,71242.0,historical,road_avg,Dallas,,
+2009,73647.0,historical,road_avg,Dallas,,
+2010,72699.0,historical,road_avg,Dallas,,
+2011,71859.0,historical,road_avg,Dallas,,
+2012,72759.0,historical,road_avg,Dallas,,
+2013,71904.0,historical,road_avg,Dallas,,
+2014,69840.0,historical,road_avg,Dallas,,
+2015,72607.0,historical,road_avg,Dallas,,
+2016,72721.0,historical,road_avg,Dallas,,
+2017,70929.0,historical,road_avg,Dallas,,
+2018,71304.0,historical,road_avg,Dallas,,
+2019,70199.0,historical,road_avg,Dallas,,
+2020,10322.0,historical,road_avg,Dallas,,
+2021,68833.0,historical,road_avg,Dallas,,
+2022,71046.0,historical,road_avg,Dallas,,
+2023,69998.0,historical,road_avg,Dallas,,
+2024,70603.0,historical,road_avg,Dallas,,
+2025,70046.84715043928,forecast,road_avg,Dallas,68232.81305246131,71860.88124841725
+2026,69895.07721401168,forecast,road_avg,Dallas,67329.64559004399,72460.50883797936
+2027,69743.30727758406,forecast,road_avg,Dallas,66601.30805322382,72885.30650194429
+2028,69591.53734115644,forecast,road_avg,Dallas,65963.46914520049,73219.60553711238
+2029,69439.76740472883,forecast,road_avg,Dallas,65383.46384814757,73496.07096131009
+2006,68094.0,historical,overall_avg,Dallas,,
+2007,67742.0,historical,overall_avg,Dallas,,
+2008,67305.0,historical,overall_avg,Dallas,,
+2009,81701.0,historical,overall_avg,Dallas,,
+2010,79873.0,historical,overall_avg,Dallas,,
+2011,78685.0,historical,overall_avg,Dallas,,
+2012,80645.0,historical,overall_avg,Dallas,,
+2013,79973.0,historical,overall_avg,Dallas,,
+2014,80629.0,historical,overall_avg,Dallas,,
+2015,82033.0,historical,overall_avg,Dallas,,
+2016,82630.0,historical,overall_avg,Dallas,,
+2017,81825.0,historical,overall_avg,Dallas,,
+2018,81462.0,historical,overall_avg,Dallas,,
+2019,80564.0,historical,overall_avg,Dallas,,
+2020,25954.0,historical,overall_avg,Dallas,,
+2021,80403.0,historical,overall_avg,Dallas,,
+2022,82915.0,historical,overall_avg,Dallas,,
+2023,81102.0,historical,overall_avg,Dallas,,
+2024,82445.0,historical,overall_avg,Dallas,,
+2025,82944.3166042625,forecast,overall_avg,Dallas,76230.56292761785,89658.07028090714
+2026,83483.95264681603,forecast,overall_avg,Dallas,73989.27114287295,92978.63415075911
+2027,84023.58868936956,forecast,overall_avg,Dallas,72395.02621191868,95652.15116682043
+2028,84563.2247319231,forecast,overall_avg,Dallas,71135.71737863381,97990.73208521238
+2029,85102.86077447662,forecast,overall_avg,Dallas,70090.45116931005,100115.27037964319
+2006,62432.0,historical,home_avg,Pittsburgh,,
+2007,62084.0,historical,home_avg,Pittsburgh,,
+2008,62890.0,historical,home_avg,Pittsburgh,,
+2009,63485.0,historical,home_avg,Pittsburgh,,
+2010,63083.0,historical,home_avg,Pittsburgh,,
+2011,63034.0,historical,home_avg,Pittsburgh,,
+2012,61141.0,historical,home_avg,Pittsburgh,,
+2013,57311.0,historical,home_avg,Pittsburgh,,
+2014,62226.0,historical,home_avg,Pittsburgh,,
+2015,64356.0,historical,home_avg,Pittsburgh,,
+2016,64312.0,historical,home_avg,Pittsburgh,,
+2017,62471.0,historical,home_avg,Pittsburgh,,
+2018,63456.0,historical,home_avg,Pittsburgh,,
+2019,62237.0,historical,home_avg,Pittsburgh,,
+2020,3969.0,historical,home_avg,Pittsburgh,,
+2021,60488.0,historical,home_avg,Pittsburgh,,
+2022,66280.0,historical,home_avg,Pittsburgh,,
+2023,66977.0,historical,home_avg,Pittsburgh,,
+2024,66880.0,historical,home_avg,Pittsburgh,,
+2025,67120.28185768607,forecast,home_avg,Pittsburgh,62801.966124667815,71438.59759070433
+2026,67369.73676944866,forecast,home_avg,Pittsburgh,61262.71609320513,73476.7574456922
+2027,67619.19168121125,forecast,home_avg,Pittsburgh,60139.649428499586,75098.73393392291
+2028,67868.64659297385,forecast,home_avg,Pittsburgh,59232.01512693733,76505.27805901036
+2029,68118.10150473643,forecast,home_avg,Pittsburgh,58462.05397740078,77774.14903207209
+2006,70034.0,historical,road_avg,Pittsburgh,,
+2007,70579.0,historical,road_avg,Pittsburgh,,
+2008,71734.0,historical,road_avg,Pittsburgh,,
+2009,67938.0,historical,road_avg,Pittsburgh,,
+2010,68130.0,historical,road_avg,Pittsburgh,,
+2011,68154.0,historical,road_avg,Pittsburgh,,
+2012,73679.0,historical,road_avg,Pittsburgh,,
+2013,69109.0,historical,road_avg,Pittsburgh,,
+2014,70341.0,historical,road_avg,Pittsburgh,,
+2015,66982.0,historical,road_avg,Pittsburgh,,
+2016,68890.0,historical,road_avg,Pittsburgh,,
+2017,67090.0,historical,road_avg,Pittsburgh,,
+2018,66607.0,historical,road_avg,Pittsburgh,,
+2019,61086.0,historical,road_avg,Pittsburgh,,
+2020,14313.0,historical,road_avg,Pittsburgh,,
+2021,69939.0,historical,road_avg,Pittsburgh,,
+2022,69004.0,historical,road_avg,Pittsburgh,,
+2023,67960.0,historical,road_avg,Pittsburgh,,
+2024,68484.0,historical,road_avg,Pittsburgh,,
+2025,67585.70442670009,forecast,road_avg,Pittsburgh,63055.4434766238,72115.96537677638
+2026,67434.11296437494,forecast,road_avg,Pittsburgh,61027.35648768783,73840.86944106207
+2027,67282.52150204981,forecast,road_avg,Pittsburgh,59435.879364972425,75129.1636391272
+2028,67130.93003972468,forecast,road_avg,Pittsburgh,58070.4081395721,76191.45193987727
+2029,66979.33857739954,forecast,road_avg,Pittsburgh,56849.36713721617,77109.3100175829
+2006,65980.0,historical,overall_avg,Pittsburgh,,
+2007,66331.0,historical,overall_avg,Pittsburgh,,
+2008,67312.0,historical,overall_avg,Pittsburgh,,
+2009,65711.0,historical,overall_avg,Pittsburgh,,
+2010,65607.0,historical,overall_avg,Pittsburgh,,
+2011,65594.0,historical,overall_avg,Pittsburgh,,
+2012,67410.0,historical,overall_avg,Pittsburgh,,
+2013,62816.0,historical,overall_avg,Pittsburgh,,
+2014,66283.0,historical,overall_avg,Pittsburgh,,
+2015,65669.0,historical,overall_avg,Pittsburgh,,
+2016,66601.0,historical,overall_avg,Pittsburgh,,
+2017,64780.0,historical,overall_avg,Pittsburgh,,
+2018,65031.0,historical,overall_avg,Pittsburgh,,
+2019,61661.0,historical,overall_avg,Pittsburgh,,
+2020,10175.0,historical,overall_avg,Pittsburgh,,
+2021,64936.0,historical,overall_avg,Pittsburgh,,
+2022,67722.0,historical,overall_avg,Pittsburgh,,
+2023,67439.0,historical,overall_avg,Pittsburgh,,
+2024,67729.0,historical,overall_avg,Pittsburgh,,
+2025,65701.98417225394,forecast,overall_avg,Pittsburgh,62440.85516325886,68963.11318124903
+2026,65667.03833302365,forecast,overall_avg,Pittsburgh,61055.10545985447,70278.97120619283
+2027,65632.09249379336,forecast,overall_avg,Pittsburgh,59983.65136017713,71280.53362740959
+2028,65597.14665456307,forecast,overall_avg,Pittsburgh,59074.8886365729,72119.40467255324
+2029,65562.20081533278,forecast,overall_avg,Pittsburgh,58270.09466782324,72854.30696284231
+2006,62223.0,historical,home_avg,Chicago,,
+2007,62158.0,historical,home_avg,Chicago,,
+2008,62034.0,historical,home_avg,Chicago,,
+2009,62250.0,historical,home_avg,Chicago,,
+2010,62195.0,historical,home_avg,Chicago,,
+2011,62145.0,historical,home_avg,Chicago,,
+2012,62329.0,historical,home_avg,Chicago,,
+2013,62358.0,historical,home_avg,Chicago,,
+2014,61681.0,historical,home_avg,Chicago,,
+2015,62035.0,historical,home_avg,Chicago,,
+2016,60368.0,historical,home_avg,Chicago,,
+2017,61142.0,historical,home_avg,Chicago,,
+2018,61815.0,historical,home_avg,Chicago,,
+2019,61916.0,historical,home_avg,Chicago,,
+2020,,historical,home_avg,Chicago,,
+2021,60834.0,historical,home_avg,Chicago,,
+2022,59823.0,historical,home_avg,Chicago,,
+2023,61769.0,historical,home_avg,Chicago,,
+2024,58649.0,historical,home_avg,Chicago,,
+2025,60028.95205217977,forecast,home_avg,Chicago,58477.22249669015,61580.68160766939
+2026,59788.05413839896,forecast,home_avg,Chicago,57593.577155890365,61982.53112090756
+2027,59547.15622461816,forecast,home_avg,Chicago,56859.48179490386,62234.83065433245
+2028,59306.258310837344,forecast,home_avg,Chicago,56202.799199858106,62409.71742181658
+2029,59065.36039705654,forecast,home_avg,Chicago,55595.587628286215,62535.13316582686
+2006,69546.0,historical,road_avg,Chicago,,
+2007,69636.0,historical,road_avg,Chicago,,
+2008,66516.0,historical,road_avg,Chicago,,
+2009,66639.0,historical,road_avg,Chicago,,
+2010,67793.0,historical,road_avg,Chicago,,
+2011,68456.0,historical,road_avg,Chicago,,
+2012,69728.0,historical,road_avg,Chicago,,
+2013,69776.0,historical,road_avg,Chicago,,
+2014,69614.0,historical,road_avg,Chicago,,
+2015,65472.0,historical,road_avg,Chicago,,
+2016,72207.0,historical,road_avg,Chicago,,
+2017,66635.0,historical,road_avg,Chicago,,
+2018,69389.0,historical,road_avg,Chicago,,
+2019,70765.0,historical,road_avg,Chicago,,
+2020,12185.0,historical,road_avg,Chicago,,
+2021,65907.0,historical,road_avg,Chicago,,
+2022,74107.0,historical,road_avg,Chicago,,
+2023,68592.0,historical,road_avg,Chicago,,
+2024,68520.0,historical,road_avg,Chicago,,
+2025,69374.26463279656,forecast,road_avg,Chicago,64985.372031211926,73763.1572343812
+2026,69424.6869015924,forecast,road_avg,Chicago,63217.85546063247,75631.51834255233
+2027,69475.10917038826,forecast,road_avg,Chicago,61873.32419548051,77076.894145296
+2028,69525.5314391841,forecast,road_avg,Chicago,60747.74623601482,78303.31664235337
+2029,69575.95370797995,forecast,road_avg,Chicago,59762.09150489079,79389.8159110691
+2006,65640.0,historical,overall_avg,Chicago,,
+2007,65363.0,historical,overall_avg,Chicago,,
+2008,64275.0,historical,overall_avg,Chicago,,
+2009,64444.0,historical,overall_avg,Chicago,,
+2010,64807.0,historical,overall_avg,Chicago,,
+2011,65090.0,historical,overall_avg,Chicago,,
+2012,66028.0,historical,overall_avg,Chicago,,
+2013,66067.0,historical,overall_avg,Chicago,,
+2014,65647.0,historical,overall_avg,Chicago,,
+2015,63754.0,historical,overall_avg,Chicago,,
+2016,66287.0,historical,overall_avg,Chicago,,
+2017,63888.0,historical,overall_avg,Chicago,,
+2018,65602.0,historical,overall_avg,Chicago,,
+2019,66045.0,historical,overall_avg,Chicago,,
+2020,9139.0,historical,overall_avg,Chicago,,
+2021,63520.0,historical,overall_avg,Chicago,,
+2022,66545.0,historical,overall_avg,Chicago,,
+2023,65381.0,historical,overall_avg,Chicago,,
+2024,63294.0,historical,overall_avg,Chicago,,
+2025,64983.169890088655,forecast,overall_avg,Chicago,63056.72929053487,66909.61048964244
+2026,64974.53634898638,forecast,overall_avg,Chicago,62250.13792599127,67698.9347719815
+2027,64965.90280788411,forecast,overall_avg,Chicago,61629.209811693516,68302.5958040747
+2028,64957.269266781834,forecast,overall_avg,Chicago,61104.38806767428,68810.1504658894
+2029,64948.63572567956,forecast,overall_avg,Chicago,60640.98359046186,69256.28786089725
+2006,60889.0,historical,home_avg,Detroit,,
+2007,61304.0,historical,home_avg,Detroit,,
+2008,54497.0,historical,home_avg,Detroit,,
+2009,49395.0,historical,home_avg,Detroit,,
+2010,56285.0,historical,home_avg,Detroit,,
+2011,63742.0,historical,home_avg,Detroit,,
+2012,63769.0,historical,home_avg,Detroit,,
+2013,63796.0,historical,home_avg,Detroit,,
+2014,63024.0,historical,home_avg,Detroit,,
+2015,61347.0,historical,home_avg,Detroit,,
+2016,60792.0,historical,home_avg,Detroit,,
+2017,64137.0,historical,home_avg,Detroit,,
+2018,62795.0,historical,home_avg,Detroit,,
+2019,61342.0,historical,home_avg,Detroit,,
+2020,,historical,home_avg,Detroit,,
+2021,51522.0,historical,home_avg,Detroit,,
+2022,63423.0,historical,home_avg,Detroit,,
+2023,64850.0,historical,home_avg,Detroit,,
+2024,64922.0,historical,home_avg,Detroit,,
+2025,63066.83367538266,forecast,home_avg,Detroit,54112.48774727962,72021.1796034857
+2026,63293.43450110743,forecast,home_avg,Detroit,50630.077047403815,75956.79195481105
+2027,63520.035326832214,forecast,home_avg,Detroit,48010.653230810254,79029.41742285418
+2028,63746.636152556996,forecast,home_avg,Detroit,45837.944296350914,81655.32800876308
+2029,63973.23697828177,forecast,home_avg,Detroit,43950.710788994926,83995.76316756861
+2006,67183.0,historical,road_avg,Detroit,,
+2007,70135.0,historical,road_avg,Detroit,,
+2008,66808.0,historical,road_avg,Detroit,,
+2009,67064.0,historical,road_avg,Detroit,,
+2010,65866.0,historical,road_avg,Detroit,,
+2011,66455.0,historical,road_avg,Detroit,,
+2012,66036.0,historical,road_avg,Detroit,,
+2013,67934.0,historical,road_avg,Detroit,,
+2014,69820.0,historical,road_avg,Detroit,,
+2015,66870.0,historical,road_avg,Detroit,,
+2016,73620.0,historical,road_avg,Detroit,,
+2017,66708.0,historical,road_avg,Detroit,,
+2018,69033.0,historical,road_avg,Detroit,,
+2019,65143.0,historical,road_avg,Detroit,,
+2020,10770.0,historical,road_avg,Detroit,,
+2021,68313.0,historical,road_avg,Detroit,,
+2022,73315.0,historical,road_avg,Detroit,,
+2023,72389.0,historical,road_avg,Detroit,,
+2024,71128.0,historical,road_avg,Detroit,,
+2025,70693.21446540441,forecast,road_avg,Detroit,65753.04459056692,75633.3843402419
+2026,70999.26860640074,forecast,road_avg,Detroit,64012.813368978575,77985.72384382291
+2027,71305.32274739706,forecast,road_avg,Detroit,62748.69752615735,79861.94796863677
+2028,71611.3768883934,forecast,road_avg,Detroit,61731.03713871842,81491.71663806836
+2029,71917.43102938971,forecast,road_avg,Detroit,60870.87536885647,82963.98668992297
+2006,63826.0,historical,overall_avg,Detroit,,
+2007,65089.0,historical,overall_avg,Detroit,,
+2008,60652.0,historical,overall_avg,Detroit,,
+2009,58230.0,historical,overall_avg,Detroit,,
+2010,61076.0,historical,overall_avg,Detroit,,
+2011,65098.0,historical,overall_avg,Detroit,,
+2012,64903.0,historical,overall_avg,Detroit,,
+2013,65865.0,historical,overall_avg,Detroit,,
+2014,66422.0,historical,overall_avg,Detroit,,
+2015,64109.0,historical,overall_avg,Detroit,,
+2016,67206.0,historical,overall_avg,Detroit,,
+2017,65422.0,historical,overall_avg,Detroit,,
+2018,65914.0,historical,overall_avg,Detroit,,
+2019,63243.0,historical,overall_avg,Detroit,,
+2020,0.0,historical,overall_avg,Detroit,,
+2021,60411.0,historical,overall_avg,Detroit,,
+2022,68078.0,historical,overall_avg,Detroit,,
+2023,68841.0,historical,overall_avg,Detroit,,
+2024,67842.0,historical,overall_avg,Detroit,,
+2025,67458.30701005316,forecast,overall_avg,Detroit,62696.67374554329,72219.94027456304
+2026,67773.63947200205,forecast,overall_avg,Detroit,61039.673130285315,74507.60581371878
+2027,68088.97193395092,forecast,overall_avg,Detroit,59841.58119280977,76336.36267509207
+2028,68404.3043958998,forecast,overall_avg,Detroit,58881.03786688006,77927.57092491954
+2029,68719.63685784867,forecast,overall_avg,Detroit,58072.301194480366,79366.97252121699
+2008,66378.0,historical,home_avg,Indianapolis,,
+2009,66549.0,historical,home_avg,Indianapolis,,
+2010,66975.0,historical,home_avg,Indianapolis,,
+2011,64828.0,historical,home_avg,Indianapolis,,
+2012,65189.0,historical,home_avg,Indianapolis,,
+2013,65950.0,historical,home_avg,Indianapolis,,
+2014,65375.0,historical,home_avg,Indianapolis,,
+2015,66047.0,historical,home_avg,Indianapolis,,
+2016,65549.0,historical,home_avg,Indianapolis,,
+2017,63440.0,historical,home_avg,Indianapolis,,
+2018,59199.0,historical,home_avg,Indianapolis,,
+2019,61110.0,historical,home_avg,Indianapolis,,
+2020,9945.0,historical,home_avg,Indianapolis,,
+2021,62475.0,historical,home_avg,Indianapolis,,
+2022,65559.0,historical,home_avg,Indianapolis,,
+2023,65230.0,historical,home_avg,Indianapolis,,
+2024,65767.0,historical,home_avg,Indianapolis,,
+2025,65547.23524509241,forecast,home_avg,Indianapolis,62275.053573093115,68819.4169170917
+2026,65331.23346372894,forecast,home_avg,Indianapolis,60703.66976463887,69958.797162819
+2027,65115.23168236546,forecast,home_avg,Indianapolis,59447.64677486701,70782.81658986391
+2028,64899.229901001985,forecast,home_avg,Indianapolis,58354.866557003406,71443.59324500056
+2029,64683.22811963851,forecast,home_avg,Indianapolis,57366.40746631918,72000.04877295785
+2008,68048.0,historical,road_avg,Indianapolis,,
+2009,66760.0,historical,road_avg,Indianapolis,,
+2010,69747.0,historical,road_avg,Indianapolis,,
+2011,66507.0,historical,road_avg,Indianapolis,,
+2012,67640.0,historical,road_avg,Indianapolis,,
+2013,65885.0,historical,road_avg,Indianapolis,,
+2014,72281.0,historical,road_avg,Indianapolis,,
+2015,67386.0,historical,road_avg,Indianapolis,,
+2016,70293.0,historical,road_avg,Indianapolis,,
+2017,64314.0,historical,road_avg,Indianapolis,,
+2018,66595.0,historical,road_avg,Indianapolis,,
+2019,59520.0,historical,road_avg,Indianapolis,,
+2020,10091.0,historical,road_avg,Indianapolis,,
+2021,64893.0,historical,road_avg,Indianapolis,,
+2022,71029.0,historical,road_avg,Indianapolis,,
+2023,65792.0,historical,road_avg,Indianapolis,,
+2024,70616.0,historical,road_avg,Indianapolis,,
+2025,67493.82250310213,forecast,road_avg,Indianapolis,61578.512954705104,73409.13205149915
+2026,67462.83103503981,forecast,road_avg,Indianapolis,59097.320046061664,75828.34202401795
+2027,67431.83956697748,forecast,road_avg,Indianapolis,57186.22288665651,77677.45624729844
+2028,67400.84809891516,forecast,road_avg,Indianapolis,55570.2290021211,79231.4671957092
+2029,67369.85663085284,forecast,road_avg,Indianapolis,54142.822372683506,80596.89088902218
+2008,67213.0,historical,overall_avg,Indianapolis,,
+2009,66654.0,historical,overall_avg,Indianapolis,,
+2010,68361.0,historical,overall_avg,Indianapolis,,
+2011,65668.0,historical,overall_avg,Indianapolis,,
+2012,66415.0,historical,overall_avg,Indianapolis,,
+2013,65918.0,historical,overall_avg,Indianapolis,,
+2014,68828.0,historical,overall_avg,Indianapolis,,
+2015,66717.0,historical,overall_avg,Indianapolis,,
+2016,67763.0,historical,overall_avg,Indianapolis,,
+2017,63877.0,historical,overall_avg,Indianapolis,,
+2018,62897.0,historical,overall_avg,Indianapolis,,
+2019,60315.0,historical,overall_avg,Indianapolis,,
+2020,9993.0,historical,overall_avg,Indianapolis,,
+2021,63612.0,historical,overall_avg,Indianapolis,,
+2022,68455.0,historical,overall_avg,Indianapolis,,
+2023,65511.0,historical,overall_avg,Indianapolis,,
+2024,68334.0,historical,overall_avg,Indianapolis,,
+2025,64765.37247994165,forecast,overall_avg,Indianapolis,60428.10996307332,69102.63499680998
+2026,64607.52165502009,forecast,overall_avg,Indianapolis,58473.706180092435,70741.33712994774
+2027,64449.670830098534,forecast,overall_avg,Indianapolis,56937.31178511852,71962.02987507854
+2028,64291.82000517698,forecast,overall_avg,Indianapolis,55617.29497144032,72966.34503891364
+2029,64133.96918025542,forecast,overall_avg,Indianapolis,54435.55535627601,73832.38300423484
+2008,65489.0,historical,home_avg,Miami,,
+2009,67542.0,historical,home_avg,Miami,,
+2010,67744.0,historical,home_avg,Miami,,
+2011,60886.0,historical,home_avg,Miami,,
+2012,57379.0,historical,home_avg,Miami,,
+2013,64319.0,historical,home_avg,Miami,,
+2014,70035.0,historical,home_avg,Miami,,
+2015,67193.0,historical,home_avg,Miami,,
+2016,65512.0,historical,home_avg,Miami,,
+2017,67627.0,historical,home_avg,Miami,,
+2018,65560.0,historical,home_avg,Miami,,
+2019,63067.0,historical,home_avg,Miami,,
+2020,12294.0,historical,home_avg,Miami,,
+2021,64374.0,historical,home_avg,Miami,,
+2022,66230.0,historical,home_avg,Miami,,
+2023,65922.0,historical,home_avg,Miami,,
+2024,65643.0,historical,home_avg,Miami,,
+2025,66053.67715822672,forecast,home_avg,Miami,60376.09568103908,71731.25863541437
+2026,66165.20674728307,forecast,home_avg,Miami,58135.89402076603,74194.5194738001
+2027,66276.7363363394,forecast,home_avg,Miami,56442.87675373844,76110.59591894035
+2028,66388.26592539574,forecast,home_avg,Miami,55033.102971020446,77743.42887977103
+2029,66499.79551445208,forecast,home_avg,Miami,53804.33738366683,79195.25364523733
+2008,70273.0,historical,road_avg,Miami,,
+2009,69294.0,historical,road_avg,Miami,,
+2010,66886.0,historical,road_avg,Miami,,
+2011,72161.0,historical,road_avg,Miami,,
+2012,68260.0,historical,road_avg,Miami,,
+2013,65874.0,historical,road_avg,Miami,,
+2014,69297.0,historical,road_avg,Miami,,
+2015,69471.0,historical,road_avg,Miami,,
+2016,66506.0,historical,road_avg,Miami,,
+2017,63767.0,historical,road_avg,Miami,,
+2018,67212.0,historical,road_avg,Miami,,
+2019,70243.0,historical,road_avg,Miami,,
+2020,6528.0,historical,road_avg,Miami,,
+2021,66432.0,historical,road_avg,Miami,,
+2022,69201.0,historical,road_avg,Miami,,
+2023,67909.0,historical,road_avg,Miami,,
+2024,69833.0,historical,road_avg,Miami,,
+2025,68607.26354011433,forecast,road_avg,Miami,64136.201439671,73078.32564055767
+2026,68907.12241652234,forecast,road_avg,Miami,62584.08575586303,75230.15907718164
+2027,69206.98129293033,forecast,road_avg,Miami,61462.874571166845,76951.08801469381
+2028,69506.84016933832,forecast,road_avg,Miami,60564.715968451645,78448.964370225
+2029,69806.69904574631,forecast,road_avg,Miami,59809.100257532016,79804.2978339606
+2008,67722.0,historical,overall_avg,Miami,,
+2009,68418.0,historical,overall_avg,Miami,,
+2010,67315.0,historical,overall_avg,Miami,,
+2011,66523.0,historical,overall_avg,Miami,,
+2012,62819.0,historical,overall_avg,Miami,,
+2013,65096.0,historical,overall_avg,Miami,,
+2014,69690.0,historical,overall_avg,Miami,,
+2015,68332.0,historical,overall_avg,Miami,,
+2016,65976.0,historical,overall_avg,Miami,,
+2017,65697.0,historical,overall_avg,Miami,,
+2018,66386.0,historical,overall_avg,Miami,,
+2019,66655.0,historical,overall_avg,Miami,,
+2020,10372.0,historical,overall_avg,Miami,,
+2021,65342.0,historical,overall_avg,Miami,,
+2022,67803.0,historical,overall_avg,Miami,,
+2023,66857.0,historical,overall_avg,Miami,,
+2024,67861.0,historical,overall_avg,Miami,,
+2025,66451.63831254246,forecast,overall_avg,Miami,63330.025168434826,69573.25145665009
+2026,66397.80732715929,forecast,overall_avg,Miami,61983.179682280155,70812.43497203842
+2027,66343.9763417761,forecast,overall_avg,Miami,60937.18377460685,71750.76890894535
+2028,66290.14535639291,forecast,overall_avg,Miami,60046.919068177645,72533.37164460818
+2029,66236.31437100974,forecast,overall_avg,Miami,59256.17518132822,73216.45356069125
+2008,63267.0,historical,home_avg,Minnesota,,
+2009,63775.0,historical,home_avg,Minnesota,,
+2010,58751.0,historical,home_avg,Minnesota,,
+2011,62816.0,historical,home_avg,Minnesota,,
+2012,60725.0,historical,home_avg,Minnesota,,
+2013,64019.0,historical,home_avg,Minnesota,,
+2014,52238.0,historical,home_avg,Minnesota,,
+2015,52430.0,historical,home_avg,Minnesota,,
+2016,66786.0,historical,home_avg,Minnesota,,
+2017,66721.0,historical,home_avg,Minnesota,,
+2018,66811.0,historical,home_avg,Minnesota,,
+2019,66849.0,historical,home_avg,Minnesota,,
+2020,12200.0,historical,home_avg,Minnesota,,
+2021,66701.0,historical,home_avg,Minnesota,,
+2022,66687.0,historical,home_avg,Minnesota,,
+2023,66913.0,historical,home_avg,Minnesota,,
+2024,66286.0,historical,home_avg,Minnesota,,
+2025,66309.68969939018,forecast,home_avg,Minnesota,57208.79722597946,75410.58217280089
+2026,66262.49035391277,forecast,home_avg,Minnesota,53391.88478831612,79133.09591950942
+2027,66215.29100843538,forecast,home_avg,Minnesota,50452.08285026684,81978.49916660393
+2028,66168.09166295797,forecast,home_avg,Minnesota,47966.30671613655,84369.8766097794
+2029,66120.89231748058,forecast,home_avg,Minnesota,45770.67809101803,86471.10654394314
+2008,64705.0,historical,road_avg,Minnesota,,
+2009,65490.0,historical,road_avg,Minnesota,,
+2010,69973.0,historical,road_avg,Minnesota,,
+2011,68132.0,historical,road_avg,Minnesota,,
+2012,66737.0,historical,road_avg,Minnesota,,
+2013,70987.0,historical,road_avg,Minnesota,,
+2014,65314.0,historical,road_avg,Minnesota,,
+2015,67359.0,historical,road_avg,Minnesota,,
+2016,68776.0,historical,road_avg,Minnesota,,
+2017,70767.0,historical,road_avg,Minnesota,,
+2018,69542.0,historical,road_avg,Minnesota,,
+2019,66903.0,historical,road_avg,Minnesota,,
+2020,8408.0,historical,road_avg,Minnesota,,
+2021,64964.0,historical,road_avg,Minnesota,,
+2022,66335.0,historical,road_avg,Minnesota,,
+2023,69088.0,historical,road_avg,Minnesota,,
+2024,69616.0,historical,road_avg,Minnesota,,
+2025,68782.24391431996,forecast,road_avg,Minnesota,64419.253862585654,73145.23396605426
+2026,68946.99051509953,forecast,road_avg,Minnesota,62776.79081143799,75117.19021876108
+2027,69111.73711587912,forecast,road_avg,Minnesota,61554.81667335774,76668.6575584005
+2028,69276.4837166587,forecast,road_avg,Minnesota,60550.503613190085,78002.4638201273
+2029,69441.23031743827,forecast,road_avg,Minnesota,59685.28797660505,79197.17265827149
+2008,63986.0,historical,overall_avg,Minnesota,,
+2009,64632.0,historical,overall_avg,Minnesota,,
+2010,64362.0,historical,overall_avg,Minnesota,,
+2011,65474.0,historical,overall_avg,Minnesota,,
+2012,63731.0,historical,overall_avg,Minnesota,,
+2013,67735.0,historical,overall_avg,Minnesota,,
+2014,58776.0,historical,overall_avg,Minnesota,,
+2015,59894.0,historical,overall_avg,Minnesota,,
+2016,67781.0,historical,overall_avg,Minnesota,,
+2017,68744.0,historical,overall_avg,Minnesota,,
+2018,68177.0,historical,overall_avg,Minnesota,,
+2019,66876.0,historical,overall_avg,Minnesota,,
+2020,9166.0,historical,overall_avg,Minnesota,,
+2021,65782.0,historical,overall_avg,Minnesota,,
+2022,66521.0,historical,overall_avg,Minnesota,,
+2023,68065.0,historical,overall_avg,Minnesota,,
+2024,67853.0,historical,overall_avg,Minnesota,,
+2025,67667.07535122825,forecast,overall_avg,Minnesota,62731.7491514934,72602.40155096311
+2026,67904.81532124055,forecast,overall_avg,Minnesota,60925.21007484025,74884.42056764085
+2027,68142.55529125282,forecast,overall_avg,Minnesota,59594.31956138623,76690.79102111941
+2028,68380.29526126511,forecast,overall_avg,Minnesota,58509.64286179541,78250.94766073482
+2029,68618.03523127739,forecast,overall_avg,Minnesota,57582.31035753456,79653.76010502022
+2008,57850.0,historical,home_avg,Las Vegas Raiders,,
+2009,44284.0,historical,home_avg,Las Vegas Raiders,,
+2010,46431.0,historical,home_avg,Las Vegas Raiders,,
+2011,59242.0,historical,home_avg,Las Vegas Raiders,,
+2012,54216.0,historical,home_avg,Las Vegas Raiders,,
+2013,50444.0,historical,home_avg,Las Vegas Raiders,,
+2014,57416.0,historical,home_avg,Las Vegas Raiders,,
+2015,54613.0,historical,home_avg,Las Vegas Raiders,,
+2016,54584.0,historical,home_avg,Las Vegas Raiders,,
+2017,57775.0,historical,home_avg,Las Vegas Raiders,,
+2018,57919.0,historical,home_avg,Las Vegas Raiders,,
+2019,52549.0,historical,home_avg,Las Vegas Raiders,,
+2020,,historical,home_avg,Las Vegas Raiders,,
+2021,61185.0,historical,home_avg,Las Vegas Raiders,,
+2022,62045.0,historical,home_avg,Las Vegas Raiders,,
+2023,62190.0,historical,home_avg,Las Vegas Raiders,,
+2024,62175.0,historical,home_avg,Las Vegas Raiders,,
+2025,61954.317325565346,forecast,home_avg,Las Vegas Raiders,54205.60322651048,69703.0314246202
+2026,62643.391282754,forecast,home_avg,Las Vegas Raiders,51685.054712918994,73601.727852589
+2027,63332.46523994264,forecast,home_avg,Las Vegas Raiders,49911.29872705432,76753.63175283096
+2028,64021.539197131286,forecast,home_avg,Las Vegas Raiders,48524.11099902156,79518.96739524101
+2029,64710.61315431993,forecast,home_avg,Las Vegas Raiders,47383.96169062222,82037.26461801764
+2008,70152.0,historical,road_avg,Las Vegas Raiders,,
+2009,71657.0,historical,road_avg,Las Vegas Raiders,,
+2010,67491.0,historical,road_avg,Las Vegas Raiders,,
+2011,68086.0,historical,road_avg,Las Vegas Raiders,,
+2012,67812.0,historical,road_avg,Las Vegas Raiders,,
+2013,75135.0,historical,road_avg,Las Vegas Raiders,,
+2014,69267.0,historical,road_avg,Las Vegas Raiders,,
+2015,66764.0,historical,road_avg,Las Vegas Raiders,,
+2016,68826.0,historical,road_avg,Las Vegas Raiders,,
+2017,65918.0,historical,road_avg,Las Vegas Raiders,,
+2018,61488.0,historical,road_avg,Las Vegas Raiders,,
+2019,66604.0,historical,road_avg,Las Vegas Raiders,,
+2020,8351.0,historical,road_avg,Las Vegas Raiders,,
+2021,73186.0,historical,road_avg,Las Vegas Raiders,,
+2022,69953.0,historical,road_avg,Las Vegas Raiders,,
+2023,68916.0,historical,road_avg,Las Vegas Raiders,,
+2024,69489.0,historical,road_avg,Las Vegas Raiders,,
+2025,65626.38069233183,forecast,road_avg,Las Vegas Raiders,59425.08067883091,71827.68070583275
+2026,65319.161315500976,forecast,road_avg,Las Vegas Raiders,56549.19873206351,74089.12389893844
+2027,65011.94193867012,forecast,road_avg,Las Vegas Raiders,54270.97524230895,75752.90863503129
+2028,64704.72256183927,forecast,road_avg,Las Vegas Raiders,52302.12253483742,77107.32258884111
+2029,64397.50318500841,forecast,road_avg,Las Vegas Raiders,50530.97480594998,78264.03156406684
+2008,64001.0,historical,overall_avg,Las Vegas Raiders,,
+2009,57971.0,historical,overall_avg,Las Vegas Raiders,,
+2010,56961.0,historical,overall_avg,Las Vegas Raiders,,
+2011,63664.0,historical,overall_avg,Las Vegas Raiders,,
+2012,61014.0,historical,overall_avg,Las Vegas Raiders,,
+2013,62789.0,historical,overall_avg,Las Vegas Raiders,,
+2014,63341.0,historical,overall_avg,Las Vegas Raiders,,
+2015,60689.0,historical,overall_avg,Las Vegas Raiders,,
+2016,62179.0,historical,overall_avg,Las Vegas Raiders,,
+2017,61846.0,historical,overall_avg,Las Vegas Raiders,,
+2018,59703.0,historical,overall_avg,Las Vegas Raiders,,
+2019,60045.0,historical,overall_avg,Las Vegas Raiders,,
+2020,6681.0,historical,overall_avg,Las Vegas Raiders,,
+2021,66833.0,historical,overall_avg,Las Vegas Raiders,,
+2022,66232.0,historical,overall_avg,Las Vegas Raiders,,
+2023,65355.0,historical,overall_avg,Las Vegas Raiders,,
+2024,66047.0,historical,overall_avg,Las Vegas Raiders,,
+2025,64806.15557647711,forecast,overall_avg,Las Vegas Raiders,60101.53812681223,69510.773026142
+2026,65062.422591362134,forecast,overall_avg,Las Vegas Raiders,58409.08878826894,71715.75639445533
+2027,65318.68960624715,forecast,overall_avg,Las Vegas Raiders,57170.05315325246,73467.32605924184
+2028,65574.95662113217,forecast,overall_avg,Las Vegas Raiders,56165.7217218024,74984.19152046193
+2029,65831.2236360172,forecast,overall_avg,Las Vegas Raiders,55311.379210434825,76351.06806159957
